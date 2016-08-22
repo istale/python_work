@@ -1,0 +1,4 @@
+#Thu Dec 24 17:22:14 HKT 2015
+-Xms=128m
+-XX\:MaxPermSize\==256m
+-Xmx=1024m

@@ -1,0 +1,39 @@
+Manifest-Version: 1.0
+Built-By: so
+Eclipse-BundleShape: dir
+Bundle-Name: %pluginName
+Bundle-Localization: fragment_lame_macosx
+Created-By: Apache Maven 3.3.3
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-Vendor: %providerName
+Fragment-Host: org.xmind.core.audio
+Build-Jdk: 1.7.0_75
+Bundle-Version: 3.6.1.201512221925
+Eclipse-PlatformFilter: (osgi.os=macosx)
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.xmind.lame.macosx;singleton:=true
+Archiver-Version: Plexus Archiver
+
+Name: META-INF/maven/org.xmind.meggy.plugins/org.xmind.lame.macosx/pom
+ .xml
+SHA-256-Digest: eCBPyb6zsKvCy7NPxyNKotmKgjzs25T9z1NvBm6c2SI=
+
+Name: META-INF/maven/org.xmind.meggy.plugins/org.xmind.lame.macosx/pom
+ .properties
+SHA-256-Digest: euuzodiCXE5pHceDlp80GpjkrJD+2b28YSbtMTyCwMw=
+
+Name: fragment_lame_macosx.properties
+SHA-256-Digest: oHsJxUGpRvprF8AtqvxxxH/5+UH9dRVAzIqcximMO5g=
+
+Name: lame-3.97/x86/lame
+SHA-256-Digest: /ka9Ox/DViVXSeOUj5rvDr4IrU6Tx6XP5dZ/41dH+zA=
+
+Name: lame.properties
+SHA-256-Digest: X467xnphMT+6LQ8Z3Xqy9mas6x0qOluhzJlyEVgQqTU=
+
+Name: about.html
+SHA-256-Digest: ubyNDyIZu4fWD9Ye1hNYLzBy2OVDBLEF52x1LGSNREE=
+
+Name: lame-3.97/ppc/lame
+SHA-256-Digest: PzX1r9G4BOwMY3ArkiXT3KuGY9hmrvB/3zWOulinjYY=
+

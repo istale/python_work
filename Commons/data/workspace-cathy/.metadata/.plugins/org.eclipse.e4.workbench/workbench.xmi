@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="ASCII"?>
+<application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_10xV4WgtEeaC2vj1JV_XDw" elementId="org.xmind.cathy.application" contributorURI="platform:/plugin/org.xmind.cathy" selectedElement="_10xV4mgtEeaC2vj1JV_XDw" bindingContexts="_107G6GgtEeaC2vj1JV_XDw">
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList/>&#xD;&#xA;&lt;/workbench>"/>
+  <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
+  <tags>ModelMigrationProcessor.001</tags>
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_10xV4mgtEeaC2vj1JV_XDw" elementId="org.xmind.cathy.window.main" contributorURI="platform:/plugin/org.xmind.cathy" selectedElement="_2j9XIGgtEeaC2vj1JV_XDw" label="XMind" x="94" y="94" width="1300" height="800">
+    <persistedState key="coolBarVisible" value="true"/>
+    <persistedState key="perspectiveBarVisible" value="true"/>
+    <persistedState key="isRestored" value="true"/>
+    <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workingSets/>"/>
+    <persistedState key="aggregateWorkingSetId"/>
+    <persistedState key="show_in_time" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;show_in_time/>"/>
+    <tags>topLevel</tags>
+    <tags>CathyShowDashboard</tags>
+    <tags>shellMaximized</tags>
+    <children xsi:type="basic:PartSashContainer" xmi:id="_2WzE4WgtEeaC2vj1JV_XDw" selectedElement="_2WzE4mgtEeaC2vj1JV_XDw" horizontal="true">
+      <children xsi:type="advanced:PerspectiveStack" xmi:id="_2WzE4mgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_2bKAcGgtEeaC2vj1JV_XDw">
+        <children xsi:type="advanced:Perspective" xmi:id="_2bKAcGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.perspective.mindmapping" selectedElement="_2bKAcWgtEeaC2vj1JV_XDw" label="&#x5fc3;&#x667a;&#x5716;&#x6cd5;" iconURI="platform:/plugin/org.xmind.ui/icons/xmind.16.png">
+          <tags>persp.viewSC:org.eclipse.ui.views.ContentOutline</tags>
+          <tags>persp.viewSC:org.xmind.ui.OverviewView</tags>
+          <tags>persp.viewSC:org.xmind.ui.MarkerView</tags>
+          <tags>persp.viewSC:org.xmind.ui.NotesView</tags>
+          <tags>persp.viewSC:org.eclipse.ui.views.PropertySheet</tags>
+          <tags>persp.viewSC:org.xmind.ui.ThemesView</tags>
+          <tags>persp.viewSC:org.xmind.ui.RevisionsView</tags>
+          <tags>persp.viewSC:org.xmind.ui.InspectorView</tags>
+          <children xsi:type="basic:PartSashContainer" xmi:id="_2bKAcWgtEeaC2vj1JV_XDw" selectedElement="_2bKAdmgtEeaC2vj1JV_XDw" horizontal="true">
+            <children xsi:type="basic:PartStack" xmi:id="_2bKAcmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.stack.libraries" toBeRendered="false" containerData="1692">
+              <children xsi:type="advanced:Placeholder" xmi:id="_2bKAc2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.BrowserView" toBeRendered="false" ref="_2a3FgmgtEeaC2vj1JV_XDw"/>
+              <children xsi:type="advanced:Placeholder" xmi:id="_2bKAdGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.BlackBoxView" toBeRendered="false" ref="_2a3Fg2gtEeaC2vj1JV_XDw"/>
+              <children xsi:type="advanced:Placeholder" xmi:id="_2bKAdWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.LocalNetworkSharingView" toBeRendered="false" ref="_2bA2jmgtEeaC2vj1JV_XDw"/>
+            </children>
+            <children xsi:type="basic:PartSashContainer" xmi:id="_2bKAdmgtEeaC2vj1JV_XDw" containerData="8308" selectedElement="_2bKAf2gtEeaC2vj1JV_XDw" horizontal="true">
+              <children xsi:type="basic:PartSashContainer" xmi:id="_2bKAd2gtEeaC2vj1JV_XDw" containerData="8076">
+                <children xsi:type="advanced:Placeholder" xmi:id="_2bKAeGgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.editorss" containerData="6500" ref="_2a3FgGgtEeaC2vj1JV_XDw"/>
+                <children xsi:type="basic:PartStack" xmi:id="_2bKAeWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.stack.assistants" toBeRendered="false" containerData="3500">
+                  <children xsi:type="advanced:Placeholder" xmi:id="_2bKAemgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.NotesView" toBeRendered="false" ref="_2bA2hWgtEeaC2vj1JV_XDw"/>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_2bKAe2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.ThemesView" toBeRendered="false" ref="_2bA2hmgtEeaC2vj1JV_XDw"/>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_2bKAfGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.CommentsView" toBeRendered="false" ref="_2bA2h2gtEeaC2vj1JV_XDw"/>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_2bKAfWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.GalleryView" toBeRendered="false" ref="_2bA2iWgtEeaC2vj1JV_XDw"/>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_2bKAfmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.GanttView" toBeRendered="false" ref="_2bA2imgtEeaC2vj1JV_XDw"/>
+                </children>
+              </children>
+              <children xsi:type="basic:PartSashContainer" xmi:id="_2bKAf2gtEeaC2vj1JV_XDw" containerData="1924" selectedElement="_2bKAgGgtEeaC2vj1JV_XDw">
+                <children xsi:type="basic:PartStack" xmi:id="_2bKAgGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.stack.navigators" containerData="5000" selectedElement="_2bKAgWgtEeaC2vj1JV_XDw">
+                  <children xsi:type="advanced:Placeholder" xmi:id="_2bKAgWgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.views.ContentOutline" ref="_2a3FhGgtEeaC2vj1JV_XDw"/>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_2bKAgmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.OverviewView" ref="_2a3FhWgtEeaC2vj1JV_XDw"/>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_2bKAg2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.RevisionsView" toBeRendered="false" ref="_2bA2gGgtEeaC2vj1JV_XDw"/>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_2bKAhGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.SpellingCheckView" toBeRendered="false" ref="_2bA2gWgtEeaC2vj1JV_XDw"/>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_2bKAhWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.IndexView" toBeRendered="false" ref="_2bA2i2gtEeaC2vj1JV_XDw"/>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_2bKAhmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.FilterView" toBeRendered="false" ref="_2bA2jGgtEeaC2vj1JV_XDw"/>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_2bKAh2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.SearchWorkbooksView" toBeRendered="false" ref="_2bA2jWgtEeaC2vj1JV_XDw"/>
+                </children>
+                <children xsi:type="basic:PartStack" xmi:id="_2bKAiGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.stack.inspectors" containerData="5000" selectedElement="_2bKAiWgtEeaC2vj1JV_XDw">
+                  <children xsi:type="advanced:Placeholder" xmi:id="_2bKAiWgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.views.PropertySheet" ref="_2bA2gmgtEeaC2vj1JV_XDw"/>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_2bKAimgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.MarkerView" ref="_2bA2g2gtEeaC2vj1JV_XDw"/>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_2bKAi2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.InspectorView" toBeRendered="false" ref="_2bA2hGgtEeaC2vj1JV_XDw"/>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_2bKAjGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.AudioNotesView" toBeRendered="false" ref="_2bA2iGgtEeaC2vj1JV_XDw"/>
+                  <children xsi:type="advanced:Placeholder" xmi:id="_2bKAjWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.TaskInfoView" toBeRendered="false" ref="_2bA2j2gtEeaC2vj1JV_XDw"/>
+                </children>
+              </children>
+            </children>
+          </children>
+        </children>
+      </children>
+      <children xsi:type="basic:PartStack" xmi:id="_2WzE42gtEeaC2vj1JV_XDw" elementId="stickyFolderRight" toBeRendered="false" containerData="2500">
+        <children xsi:type="advanced:Placeholder" xmi:id="_2WzE5GgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.internal.introview" toBeRendered="false" ref="_2WzE4GgtEeaC2vj1JV_XDw"/>
+      </children>
+    </children>
+    <children xsi:type="basic:Part" xmi:id="_2j9XIGgtEeaC2vj1JV_XDw" elementId="org.xmind.cathy.part.dashboard" contributorURI="platform:/plugin/org.xmind.cathy" contributionURI="bundleclass://org.xmind.cathy/org.xmind.cathy.internal.dashboard.DashboardPart" label="Home" bindingContexts="_107G62gtEeaC2vj1JV_XDw">
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
+      <tags>activeOnClose</tags>
+      <tags>active</tags>
+    </children>
+    <sharedElements xsi:type="basic:Part" xmi:id="_2WzE4GgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.internal.introview" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="&#x6b61;&#x8fce;&#x4f7f;&#x7528;" iconURI="platform:/plugin/org.eclipse.ui/icons/full/eview16/defaultview_misc.png" tooltip="" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:&#x4e00;&#x822c;</tags>
+    </sharedElements>
+    <sharedElements xsi:type="advanced:Area" xmi:id="_2a3FgGgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.editorss">
+      <children xsi:type="basic:PartStack" xmi:id="_2a3FgWgtEeaC2vj1JV_XDw" elementId="org.eclipse.e4.primaryDataStack">
+        <tags>org.eclipse.e4.primaryDataStack</tags>
+        <tags>EditorStack</tags>
+      </children>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_2a3FgmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.BrowserView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="&#x7db2;&#x9801;&#x700f;&#x89bd;&#x5668;" iconURI="platform:/plugin/org.xmind.ui.browser/icons/browser.gif" tooltip="" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:&#x8cc7;&#x6e90;</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_2a3Fg2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.BlackBoxView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="&#x9ed1;&#x7bb1;" iconURI="platform:/plugin/org.xmind.ui/icons/e/blackboxview.gif" tooltip="" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:&#x5fc3;&#x667a;&#x5716;</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_2a3FhGgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.views.ContentOutline" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="&#x7db1;&#x8981;" iconURI="platform:/plugin/org.xmind.ui/icons/e/outline_co.gif" tooltip="" closeable="true">
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
+      <tags>View</tags>
+      <tags>categoryTag:&#x4e00;&#x822c;</tags>
+      <menus xmi:id="_2dimEGgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.views.ContentOutline">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_2dimEWgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.views.ContentOutline"/>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_2a3FhWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.OverviewView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="&#x5168;&#x89bd;" iconURI="platform:/plugin/org.xmind.ui/icons/e/overview.png" tooltip="" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:&#x5fc3;&#x667a;&#x5716;</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_2bA2gGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.RevisionsView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="&#x4fee;&#x8a02;&#x6b77;&#x53f2;" iconURI="platform:/plugin/org.xmind.ui/icons/e/revisions.gif" tooltip="" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:&#x5fc3;&#x667a;&#x5716;</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_2bA2gWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.SpellingCheckView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="&#x62fc;&#x5b57;" iconURI="platform:/plugin/org.xmind.ui/icons/e/spellcheck.png" tooltip="" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:&#x4e00;&#x822c;</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_2bA2gmgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.views.PropertySheet" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="&#x5c6c;&#x6027;" iconURI="platform:/plugin/org.xmind.ui/icons/e/prop_ps.gif" tooltip="" closeable="true">
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
+      <tags>View</tags>
+      <tags>categoryTag:&#x4e00;&#x822c;</tags>
+      <menus xmi:id="_2fLk0GgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.views.PropertySheet">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_2fLk0WgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.views.PropertySheet"/>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_2bA2g2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.MarkerView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="&#x5716;&#x6a19;" iconURI="platform:/plugin/org.xmind.ui/icons/e/markers.gif" tooltip="" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:&#x8cc7;&#x6e90;</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_2bA2hGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.InspectorView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="&#x76e3;&#x88fd;" iconURI="platform:/plugin/org.xmind.ui/icons/e/inspector.png" tooltip="" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:&#x5fc3;&#x667a;&#x5716;</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_2bA2hWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.NotesView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="&#x5099;&#x8a3b;" iconURI="platform:/plugin/org.xmind.ui/icons/e/menu_window_notes.png" tooltip="" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:&#x5fc3;&#x667a;&#x5716;</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_2bA2hmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.ThemesView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="&#x98a8;&#x683c;" iconURI="platform:/plugin/org.xmind.ui/icons/e/theme.gif" tooltip="" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:&#x8cc7;&#x6e90;</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_2bA2h2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.CommentsView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="&#x8a55;&#x8a3b;" iconURI="platform:/plugin/org.xmind.ui/icons/e/menu_window_comments.png" tooltip="" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:&#x5fc3;&#x667a;&#x5716;</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_2bA2iGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.AudioNotesView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="&#x9304;&#x97f3;" iconURI="platform:/plugin/org.xmind.ui.audionotes/icons/audio_view.png" tooltip="" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:&#x5fc3;&#x667a;&#x5716;</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_2bA2iWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.GalleryView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="&#x7f8e;&#x5de5;&#x5716;&#x6848;" iconURI="platform:/plugin/org.xmind.ui.gallery/icons/gallery.gif" tooltip="" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:&#x8cc7;&#x6e90;</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_2bA2imgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.GanttView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="&#x7518;&#x7279;&#x5716;(&#x5c08;&#x6848;&#x6392;&#x7a0b;)" iconURI="platform:/plugin/org.xmind.ui.gantt/icons/e/gantt.png" tooltip="" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:&#x4efb;&#x52d9;</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_2bA2i2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.IndexView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="&#x7d22;&#x5f15;" iconURI="platform:/plugin/org.xmind.ui.index/icons/index.png" tooltip="" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:&#x8cc7;&#x6e90;</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_2bA2jGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.FilterView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="&#x7be9;&#x9078;" iconURI="platform:/plugin/org.xmind.ui.mindmap.filtering/icons/filter.gif" tooltip="" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:&#x5fc3;&#x667a;&#x5716;</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_2bA2jWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.SearchWorkbooksView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="&#x641c;&#x5c0b;" iconURI="platform:/plugin/org.xmind.ui.search/icons/search-workspace.gif" tooltip="" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:&#x5fc3;&#x667a;&#x5716;</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_2bA2jmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.LocalNetworkSharingView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="&#x672c;&#x5730;&#x7db2;&#x8def;&#x5206;&#x4eab;" iconURI="platform:/plugin/org.xmind.ui.sharing/icons/localnetwork.gif" tooltip="" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:&#x8cc7;&#x6e90;</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_2bA2j2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.TaskInfoView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="&#x4efb;&#x52d9;&#x8cc7;&#x8a0a;" iconURI="platform:/plugin/org.xmind.ui.taskinfo/icons/e/taskinfo.png" tooltip="" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:&#x4efb;&#x52d9;</tags>
+    </sharedElements>
+    <trimBars xmi:id="_10xV42gtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.main.toolbar" contributorURI="platform:/plugin/org.xmind.cathy">
+      <children xsi:type="menu:ToolBar" xmi:id="_10xV5GgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.toolbar.dashboard" contributorURI="platform:/plugin/org.xmind.cathy">
+        <tags>Draggable</tags>
+        <children xsi:type="menu:ToolBarSeparator" xmi:id="_10xV5WgtEeaC2vj1JV_XDw" elementId="start" contributorURI="platform:/plugin/org.xmind.cathy" visible="false"/>
+        <children xsi:type="menu:ToolBarSeparator" xmi:id="_10xV5mgtEeaC2vj1JV_XDw" elementId="additions" contributorURI="platform:/plugin/org.xmind.cathy" visible="false"/>
+        <children xsi:type="menu:ToolBarSeparator" xmi:id="_10xV52gtEeaC2vj1JV_XDw" elementId="end" contributorURI="platform:/plugin/org.xmind.cathy" visible="false"/>
+      </children>
+      <children xsi:type="menu:ToolBar" xmi:id="_10xV6GgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.toolbar.edit" contributorURI="platform:/plugin/org.xmind.cathy">
+        <tags>Draggable</tags>
+        <children xsi:type="menu:ToolBarSeparator" xmi:id="_10xV6WgtEeaC2vj1JV_XDw" elementId="start" contributorURI="platform:/plugin/org.xmind.cathy" visible="false"/>
+        <children xsi:type="menu:ToolBarSeparator" xmi:id="_10xV6mgtEeaC2vj1JV_XDw" elementId="additions" contributorURI="platform:/plugin/org.xmind.cathy" visible="false"/>
+        <children xsi:type="menu:ToolBarSeparator" xmi:id="_10xV62gtEeaC2vj1JV_XDw" elementId="end" contributorURI="platform:/plugin/org.xmind.cathy" visible="false"/>
+      </children>
+      <children xsi:type="menu:ToolBar" xmi:id="_A8W6sEVtEeWqKcBDsQEnrw" elementId="org.xmind.ui.toolbar.mindmap" contributorURI="platform:/plugin/org.xmind.ui.menus">
+        <tags>Draggable</tags>
+        <children xsi:type="menu:ToolBarSeparator" xmi:id="_Cod3MEVtEeWqKcBDsQEnrw" elementId="start" contributorURI="platform:/plugin/org.xmind.ui.menus" visible="false"/>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_Epx1UEY2EeWIUIBrCUBfAw" elementId="org.xmind.ui.toolbar.mindmap.topic" contributorURI="platform:/plugin/org.xmind.ui.menus" label="%toolbar.topic.label" iconURI="platform:/plugin/org.xmind.ui.menus/icons/toolbar/e/topic.png" tooltip="%toolbar.topic.tooltip" contributionURI="bundleclass://org.xmind.ui.toolkit/org.xmind.ui.internal.e4handlers.ShowPullDownMenuToolItem">
+          <menu xmi:id="_Epx1UUY2EeWIUIBrCUBfAw" elementId="org.xmind.ui.toolbar.mindmap.topic.menu" contributorURI="platform:/plugin/org.xmind.ui.menus">
+            <children xsi:type="menu:MenuSeparator" xmi:id="_Epx1UkY2EeWIUIBrCUBfAw" elementId="start" contributorURI="platform:/plugin/org.xmind.ui.menus" visible="false"/>
+            <children xsi:type="menu:MenuSeparator" xmi:id="_Epx1U0Y2EeWIUIBrCUBfAw" elementId="additions" contributorURI="platform:/plugin/org.xmind.ui.menus" visible="false"/>
+            <children xsi:type="menu:MenuSeparator" xmi:id="_Epx1VEY2EeWIUIBrCUBfAw" elementId="end" contributorURI="platform:/plugin/org.xmind.ui.menus" visible="false"/>
+          </menu>
+        </children>
+        <children xsi:type="menu:ToolBarSeparator" xmi:id="_D34QoEVtEeWqKcBDsQEnrw" elementId="additions" contributorURI="platform:/plugin/org.xmind.ui.menus" visible="false"/>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_BNaDACuFEeW589Z25pk4Ag" elementId="org.xmind.ui.toolbar.mindmap.insert" contributorURI="platform:/plugin/org.xmind.ui.menus" label="%toolbar.insert.label" iconURI="platform:/plugin/org.xmind.ui.menus/icons/toolbar/e/insert.png" tooltip="%toolbar.insert.tooltip" contributionURI="bundleclass://org.xmind.ui.toolkit/org.xmind.ui.internal.e4handlers.ShowPullDownMenuToolItem">
+          <menu xmi:id="_Ppi8cCuFEeW589Z25pk4Ag" elementId="org.xmind.ui.toolbar.mindmap.insert.menu" contributorURI="platform:/plugin/org.xmind.ui.menus">
+            <children xsi:type="menu:MenuSeparator" xmi:id="_TfPxoEVuEeWqKcBDsQEnrw" elementId="start" contributorURI="platform:/plugin/org.xmind.ui.menus" visible="false"/>
+            <children xsi:type="menu:MenuSeparator" xmi:id="_ThLEQEVuEeWqKcBDsQEnrw" elementId="additions" contributorURI="platform:/plugin/org.xmind.ui.menus" visible="false"/>
+            <children xsi:type="menu:MenuSeparator" xmi:id="_TjFIwEVuEeWqKcBDsQEnrw" elementId="end" contributorURI="platform:/plugin/org.xmind.ui.menus" visible="false"/>
+          </menu>
+        </children>
+        <children xsi:type="menu:ToolBarSeparator" xmi:id="_eH8EEEVtEeWqKcBDsQEnrw" elementId="end" contributorURI="platform:/plugin/org.xmind.ui.menus" visible="false"/>
+      </children>
+      <children xsi:type="menu:ToolBar" xmi:id="_10xV7GgtEeaC2vj1JV_XDw" elementId="additions" contributorURI="platform:/plugin/org.xmind.cathy" toBeRendered="false" visible="false">
+        <tags>Draggable</tags>
+        <tags>toolbarSeparator</tags>
+        <children xsi:type="menu:ToolBarSeparator" xmi:id="_2ZRKEGgtEeaC2vj1JV_XDw" elementId="additions" toBeRendered="false"/>
+      </children>
+      <children xsi:type="menu:ToolControl" xmi:id="_10xV7mgtEeaC2vj1JV_XDw" elementId="PerspectiveSpacer" contributorURI="platform:/plugin/org.xmind.cathy" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
+        <tags>stretch</tags>
+        <tags>SHOW_RESTORE_MENU</tags>
+      </children>
+      <children xsi:type="menu:ToolBar" xmi:id="_10xV72gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.toolbar.export" contributorURI="platform:/plugin/org.xmind.cathy">
+        <tags>Draggable</tags>
+        <children xsi:type="menu:ToolBarSeparator" xmi:id="_10xV8GgtEeaC2vj1JV_XDw" elementId="start" contributorURI="platform:/plugin/org.xmind.cathy" visible="false"/>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_10xV8WgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.toolbar.export.share" contributorURI="platform:/plugin/org.xmind.cathy" label="%toolbar.share.label" iconURI="platform:/plugin/org.xmind.cathy/icons/toolbar/e/share.png" tooltip="%toolbar.share.tooltip" contributionURI="bundleclass://org.xmind.ui.toolkit/org.xmind.ui.internal.e4handlers.ShowPullDownMenuToolItem">
+          <menu xmi:id="_10xV8mgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.toolbar.export.share.menu" contributorURI="platform:/plugin/org.xmind.cathy">
+            <children xsi:type="menu:MenuSeparator" xmi:id="_10xV82gtEeaC2vj1JV_XDw" elementId="start" contributorURI="platform:/plugin/org.xmind.cathy" visible="false"/>
+            <children xsi:type="menu:MenuSeparator" xmi:id="_10xV9GgtEeaC2vj1JV_XDw" elementId="group.favorite" contributorURI="platform:/plugin/org.xmind.cathy"/>
+            <children xsi:type="menu:MenuSeparator" xmi:id="_10xV9WgtEeaC2vj1JV_XDw" elementId="group.intranet" contributorURI="platform:/plugin/org.xmind.cathy"/>
+            <children xsi:type="menu:MenuSeparator" xmi:id="_10xV9mgtEeaC2vj1JV_XDw" elementId="group.internet" contributorURI="platform:/plugin/org.xmind.cathy" visible="false"/>
+            <children xsi:type="menu:MenuSeparator" xmi:id="_10xV92gtEeaC2vj1JV_XDw" elementId="additions" contributorURI="platform:/plugin/org.xmind.cathy" visible="false"/>
+            <children xsi:type="menu:MenuSeparator" xmi:id="_10xV-GgtEeaC2vj1JV_XDw" elementId="end" contributorURI="platform:/plugin/org.xmind.cathy" visible="false"/>
+          </menu>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_10xV-WgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.toolbar.export.export" contributorURI="platform:/plugin/org.xmind.cathy" label="%toolbar.export.label" iconURI="platform:/plugin/org.xmind.cathy/icons/toolbar/e/export.png" tooltip="%toolbar.export.tooltip" contributionURI="bundleclass://org.xmind.ui.toolkit/org.xmind.ui.internal.e4handlers.ShowPullDownMenuToolItem">
+          <menu xmi:id="_10xV-mgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.toolbar.export.export.menu" contributorURI="platform:/plugin/org.xmind.cathy">
+            <children xsi:type="menu:MenuSeparator" xmi:id="_10xV-2gtEeaC2vj1JV_XDw" elementId="start" contributorURI="platform:/plugin/org.xmind.cathy" visible="false"/>
+            <children xsi:type="menu:MenuSeparator" xmi:id="_10xV_GgtEeaC2vj1JV_XDw" elementId="additions" contributorURI="platform:/plugin/org.xmind.cathy" visible="false"/>
+            <children xsi:type="menu:MenuSeparator" xmi:id="_10xV_WgtEeaC2vj1JV_XDw" elementId="group.more" contributorURI="platform:/plugin/org.xmind.cathy"/>
+            <children xsi:type="menu:HandledMenuItem" xmi:id="_10xV_mgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.toolbar.export.export.menu.more" contributorURI="platform:/plugin/org.xmind.cathy" label="%toolbar.export.more.label" tooltip="%toolbar.export.more.tooltip" command="_107G7mgtEeaC2vj1JV_XDw"/>
+            <children xsi:type="menu:MenuSeparator" xmi:id="_10xV_2gtEeaC2vj1JV_XDw" elementId="end" contributorURI="platform:/plugin/org.xmind.cathy" visible="false"/>
+          </menu>
+        </children>
+        <children xsi:type="menu:ToolBarSeparator" xmi:id="_10xWAGgtEeaC2vj1JV_XDw" elementId="additions" contributorURI="platform:/plugin/org.xmind.cathy" visible="false"/>
+        <children xsi:type="menu:ToolBarSeparator" xmi:id="_10xWAWgtEeaC2vj1JV_XDw" elementId="end" contributorURI="platform:/plugin/org.xmind.cathy" visible="false"/>
+      </children>
+      <children xsi:type="menu:ToolBar" xmi:id="_10xWAmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.toolbar.perspective" contributorURI="platform:/plugin/org.xmind.cathy">
+        <tags>Draggable</tags>
+        <children xsi:type="menu:ToolBarSeparator" xmi:id="_10xWA2gtEeaC2vj1JV_XDw" elementId="start" contributorURI="platform:/plugin/org.xmind.cathy" visible="false"/>
+        <children xsi:type="menu:ToolBarSeparator" xmi:id="_107G4GgtEeaC2vj1JV_XDw" elementId="additions" contributorURI="platform:/plugin/org.xmind.cathy" visible="false"/>
+        <children xsi:type="menu:ToolBarSeparator" xmi:id="_107G4WgtEeaC2vj1JV_XDw" elementId="end" contributorURI="platform:/plugin/org.xmind.cathy" visible="false"/>
+      </children>
+    </trimBars>
+    <trimBars xmi:id="_107G4mgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.trim.status" contributorURI="platform:/plugin/org.xmind.cathy" side="Bottom">
+      <children xsi:type="menu:ToolControl" xmi:id="_107G42gtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.StatusLine" contributorURI="platform:/plugin/org.xmind.cathy" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.StandardTrim">
+        <tags>stretch</tags>
+      </children>
+      <children xsi:type="menu:ToolControl" xmi:id="_107G5GgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.HeapStatus" contributorURI="platform:/plugin/org.xmind.cathy" toBeRendered="false" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.StandardTrim"/>
+      <children xsi:type="menu:ToolControl" xmi:id="_107G5WgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.ProgressBar" contributorURI="platform:/plugin/org.xmind.cathy" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.StandardTrim">
+        <tags>Draggable</tags>
+      </children>
+      <children xsi:type="menu:ToolControl" xmi:id="_107G5mgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.toolcontrol.autobackup" contributorURI="platform:/plugin/org.xmind.cathy" contributionURI="bundleclass://org.xmind.cathy/org.xmind.cathy.internal.AutoBackupIndicatorToolControl"/>
+      <children xsi:type="menu:ToolControl" xmi:id="_107G52gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.toolcontrol.sharingservicestatus" contributorURI="platform:/plugin/org.xmind.cathy" contributionURI="bundleclass://org.xmind.ui.sharing/org.xmind.ui.internal.sharing.SharingServiceStatusToolControl"/>
+    </trimBars>
+    <trimBars xmi:id="_2ZlTIGgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.trim.vertical1" side="Left"/>
+    <trimBars xmi:id="_2ZnIUGgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.trim.vertical2" side="Right"/>
+  </children>
+  <bindingTables xmi:id="_12J18GgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.context.notes.edit" bindingContext="_11g9tmgtEeaC2vj1JV_XDw">
+    <bindings xmi:id="_12Tm8GgtEeaC2vj1JV_XDw" keySequence="CTRL+U" command="_11g8x2gtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12TnEWgtEeaC2vj1JV_XDw" keySequence="CTRL+CR" command="_11g802gtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12TnHmgtEeaC2vj1JV_XDw" keySequence="CTRL+R" command="_11g9NGgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYBGgtEeaC2vj1JV_XDw" keySequence="CTRL+L" command="_11g9QmgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYDWgtEeaC2vj1JV_XDw" keySequence="CTRL+I" command="_11g9fGgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYHmgtEeaC2vj1JV_XDw" keySequence="CTRL+T" command="_11g9oGgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYJmgtEeaC2vj1JV_XDw" keySequence="CTRL+B" command="_11g9gGgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYMmgtEeaC2vj1JV_XDw" keySequence="CTRL+D" command="_11g8-GgtEeaC2vj1JV_XDw"/>
+  </bindingTables>
+  <bindingTables xmi:id="_12Tm8WgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.context.notesPopup" bindingContext="_11g9vGgtEeaC2vj1JV_XDw">
+    <bindings xmi:id="_12Tm8mgtEeaC2vj1JV_XDw" keySequence="CTRL+U" command="_11g8x2gtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12TnDmgtEeaC2vj1JV_XDw" keySequence="CTRL+CR" command="_11g802gtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12TnGmgtEeaC2vj1JV_XDw" keySequence="F4" command="_11g9kGgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12TnH2gtEeaC2vj1JV_XDw" keySequence="CTRL+R" command="_11g9NGgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYBWgtEeaC2vj1JV_XDw" keySequence="CTRL+L" command="_11g9QmgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYDmgtEeaC2vj1JV_XDw" keySequence="CTRL+I" command="_11g9fGgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYJ2gtEeaC2vj1JV_XDw" keySequence="CTRL+B" command="_11g9gGgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYM2gtEeaC2vj1JV_XDw" keySequence="CTRL+D" command="_11g8-GgtEeaC2vj1JV_XDw"/>
+  </bindingTables>
+  <bindingTables xmi:id="_12Tm82gtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.contexts.window" bindingContext="_107G6WgtEeaC2vj1JV_XDw">
+    <bindings xmi:id="_12Tm9GgtEeaC2vj1JV_XDw" keySequence="ALT+-" command="_11g88mgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12Tm9WgtEeaC2vj1JV_XDw" keySequence="CTRL+N" command="_11g9lGgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12Tm9mgtEeaC2vj1JV_XDw" keySequence="CTRL+SHIFT+W" command="_11g9E2gtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12Tm92gtEeaC2vj1JV_XDw" keySequence="CTRL+S" command="_11g9SGgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12Tm-GgtEeaC2vj1JV_XDw" keySequence="CTRL+SHIFT+F7" command="_11g9aWgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12TnBGgtEeaC2vj1JV_XDw" keySequence="CTRL+SHIFT+L" command="_11g9RWgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12TnCmgtEeaC2vj1JV_XDw" keySequence="F12" command="_11g88WgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12TnFGgtEeaC2vj1JV_XDw" keySequence="CTRL+SHIFT+F4" command="_11g9E2gtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12TnFWgtEeaC2vj1JV_XDw" keySequence="CTRL+SHIFT+F6" command="_11g9T2gtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12TnFmgtEeaC2vj1JV_XDw" keySequence="ALT+CTRL+N" command="_11g9QGgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12TnF2gtEeaC2vj1JV_XDw" keySequence="CTRL+P" command="_11g9ImgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12TnHGgtEeaC2vj1JV_XDw" keySequence="CTRL+," command="_11g9GGgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dX8WgtEeaC2vj1JV_XDw" keySequence="ALT+SHIFT+F7" command="_11g9g2gtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dX8mgtEeaC2vj1JV_XDw" keySequence="F2" command="_11g9GWgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dX9WgtEeaC2vj1JV_XDw" keySequence="F5" command="_11g9O2gtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dX-GgtEeaC2vj1JV_XDw" keySequence="CTRL+O" command="_11g85mgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dX-WgtEeaC2vj1JV_XDw" keySequence="CTRL+SHIFT+S" command="_11g9RGgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dX-mgtEeaC2vj1JV_XDw" keySequence="CTRL+." command="_11g9hWgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dX-2gtEeaC2vj1JV_XDw" keySequence="CTRL+F6" command="_11g9WGgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dX_mgtEeaC2vj1JV_XDw" keySequence="CTRL+F7" command="_11g812gtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dX_2gtEeaC2vj1JV_XDw" keySequence="CTRL+SHIFT+F8" command="_11g83WgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYBmgtEeaC2vj1JV_XDw" keySequence="CTRL+{" command="_11g83mgtEeaC2vj1JV_XDw">
+      <parameters xmi:id="_12dYB2gtEeaC2vj1JV_XDw" elementId="Splitter.isHorizontal" name="Splitter.isHorizontal" value="false"/>
+    </bindings>
+    <bindings xmi:id="_12dYCGgtEeaC2vj1JV_XDw" keySequence="CTRL+F8" command="_11g9r2gtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYC2gtEeaC2vj1JV_XDw" keySequence="CTRL+SHIFT+NUMPAD_MULTIPLY" command="_11g9Q2gtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYD2gtEeaC2vj1JV_XDw" keySequence="CTRL+W" command="_11g9l2gtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYEGgtEeaC2vj1JV_XDw" keySequence="CTRL+F4" command="_11g9l2gtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYEWgtEeaC2vj1JV_XDw" keySequence="ALT+F7" command="_11g9F2gtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYFWgtEeaC2vj1JV_XDw" keySequence="CTRL+SHIFT+N" command="_11g9sWgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYHGgtEeaC2vj1JV_XDw" keySequence="CTRL+SHIFT+NUMPAD_DIVIDE" command="_11g85GgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYIGgtEeaC2vj1JV_XDw" keySequence="CTRL+M" command="_11g86GgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYKmgtEeaC2vj1JV_XDw" keySequence="CTRL+SHIFT+E" command="_11g9dmgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYK2gtEeaC2vj1JV_XDw" keySequence="CTRL+E" command="_11g9AmgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYLGgtEeaC2vj1JV_XDw" keySequence="CTRL+F" command="_11g9U2gtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYNWgtEeaC2vj1JV_XDw" keySequence="DEL" command="_11g9W2gtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYOGgtEeaC2vj1JV_XDw" keySequence="ALT+SHIFT+?" command="_11g82GgtEeaC2vj1JV_XDw">
+      <tags>locale:zh</tags>
+    </bindings>
+    <bindings xmi:id="_12dYOWgtEeaC2vj1JV_XDw" keySequence="CTRL+_" command="_11g83mgtEeaC2vj1JV_XDw">
+      <parameters xmi:id="_12dYOmgtEeaC2vj1JV_XDw" elementId="Splitter.isHorizontal" name="Splitter.isHorizontal" value="true"/>
+    </bindings>
+    <bindings xmi:id="_12dYPWgtEeaC2vj1JV_XDw" keySequence="ALT+?" command="_11g82GgtEeaC2vj1JV_XDw">
+      <tags>locale:zh</tags>
+    </bindings>
+  </bindingTables>
+  <bindingTables xmi:id="_12Tm-WgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.context.mindmap.edit" bindingContext="_11g9xWgtEeaC2vj1JV_XDw">
+    <bindings xmi:id="_12Tm-mgtEeaC2vj1JV_XDw" keySequence="-" command="_11g9PWgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12Tm_WgtEeaC2vj1JV_XDw" keySequence="CTRL+6" command="_11g9JGgtEeaC2vj1JV_XDw">
+      <parameters xmi:id="_12Tm_mgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.mindmap.markerId" name="org.xmind.ui.mindmap.markerId" value="priority-6"/>
+    </bindings>
+    <bindings xmi:id="_12Tm_2gtEeaC2vj1JV_XDw" keySequence="INSERT" command="_11g9EmgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12TnAGgtEeaC2vj1JV_XDw" keySequence="CTRL+4" command="_11g9JGgtEeaC2vj1JV_XDw">
+      <parameters xmi:id="_12TnAWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.mindmap.markerId" name="org.xmind.ui.mindmap.markerId" value="priority-4"/>
+    </bindings>
+    <bindings xmi:id="_12TnAmgtEeaC2vj1JV_XDw" keySequence="CTRL+5" command="_11g9JGgtEeaC2vj1JV_XDw">
+      <parameters xmi:id="_12TnA2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.mindmap.markerId" name="org.xmind.ui.mindmap.markerId" value="priority-5"/>
+    </bindings>
+    <bindings xmi:id="_12TnB2gtEeaC2vj1JV_XDw" keySequence="CR" command="_11g8yGgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12TnDWgtEeaC2vj1JV_XDw" keySequence="CTRL+CR" command="_11g9i2gtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12TnGWgtEeaC2vj1JV_XDw" keySequence="F4" command="_11g9L2gtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12TnG2gtEeaC2vj1JV_XDw" keySequence="ALT+CR" command="_11g9D2gtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12TnIWgtEeaC2vj1JV_XDw" keySequence="*" command="_11g8xmgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dX82gtEeaC2vj1JV_XDw" keySequence="F2" command="_11g9FGgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dX92gtEeaC2vj1JV_XDw" keySequence="+" command="_11g9qGgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dX_GgtEeaC2vj1JV_XDw" keySequence="CTRL+2" command="_11g9JGgtEeaC2vj1JV_XDw">
+      <parameters xmi:id="_12dX_WgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.mindmap.markerId" name="org.xmind.ui.mindmap.markerId" value="priority-2"/>
+    </bindings>
+    <bindings xmi:id="_12dYAGgtEeaC2vj1JV_XDw" keySequence="SHIFT+CR" command="_11g87WgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYAWgtEeaC2vj1JV_XDw" keySequence="TAB" command="_11g9EmgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYA2gtEeaC2vj1JV_XDw" keySequence="CTRL+L" command="_11g9qWgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYDGgtEeaC2vj1JV_XDw" keySequence="CTRL+I" command="_11g9YGgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYEmgtEeaC2vj1JV_XDw" keySequence="ALT+CTRL+T" command="_11g9cmgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYE2gtEeaC2vj1JV_XDw" keySequence="CTRL+3" command="_11g9JGgtEeaC2vj1JV_XDw">
+      <parameters xmi:id="_12dYFGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.mindmap.markerId" name="org.xmind.ui.mindmap.markerId" value="priority-3"/>
+    </bindings>
+    <bindings xmi:id="_12dYGWgtEeaC2vj1JV_XDw" keySequence="F3" command="_11g9NWgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYGmgtEeaC2vj1JV_XDw" keySequence="CTRL+1" command="_11g9JGgtEeaC2vj1JV_XDw">
+      <parameters xmi:id="_12dYG2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.mindmap.markerId" name="org.xmind.ui.mindmap.markerId" value="priority-1"/>
+    </bindings>
+    <bindings xmi:id="_12dYHWgtEeaC2vj1JV_XDw" keySequence="CTRL+T" command="_11g9mWgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYIWgtEeaC2vj1JV_XDw" keySequence="/" command="_11g9emgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYImgtEeaC2vj1JV_XDw" keySequence="ALT+ARROW_LEFT" command="_11g9VGgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYJGgtEeaC2vj1JV_XDw" keySequence="ALT+ARROW_RIGHT" command="_11g9qmgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYJWgtEeaC2vj1JV_XDw" keySequence="CTRL+B" command="_11g882gtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYLmgtEeaC2vj1JV_XDw" keySequence="SHIFT+TAB" command="_11g83GgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYMGgtEeaC2vj1JV_XDw" keySequence="CTRL+H" command="_11g9cGgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYPGgtEeaC2vj1JV_XDw" keySequence="ALT+ARROW_UP" command="_11g8_GgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYP2gtEeaC2vj1JV_XDw" keySequence="CTRL+]" command="_11g9iWgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYQmgtEeaC2vj1JV_XDw" keySequence="ALT+ARROW_DOWN" command="_11g9LmgtEeaC2vj1JV_XDw"/>
+  </bindingTables>
+  <bindingTables xmi:id="_12Tm-2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.contexts.dashboard" bindingContext="_107G62gtEeaC2vj1JV_XDw">
+    <bindings xmi:id="_12Tm_GgtEeaC2vj1JV_XDw" keySequence="ESC" command="_11g9fWgtEeaC2vj1JV_XDw"/>
+  </bindingTables>
+  <bindingTables xmi:id="_12TnBWgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.contexts.dialogAndWindow" bindingContext="_107G6GgtEeaC2vj1JV_XDw">
+    <bindings xmi:id="_12TnBmgtEeaC2vj1JV_XDw" keySequence="CTRL+V" command="_11g9FmgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12TnGGgtEeaC2vj1JV_XDw" keySequence="CTRL+Z" command="_11g9DmgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12TnIGgtEeaC2vj1JV_XDw" keySequence="CTRL+X" command="_11g9FWgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dX8GgtEeaC2vj1JV_XDw" keySequence="ALT+/" command="_11g87mgtEeaC2vj1JV_XDw">
+      <tags>locale:zh</tags>
+    </bindings>
+    <bindings xmi:id="_12dYCWgtEeaC2vj1JV_XDw" keySequence="CTRL+INSERT" command="_11g81WgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYF2gtEeaC2vj1JV_XDw" keySequence="CTRL+Y" command="_11g9j2gtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYGGgtEeaC2vj1JV_XDw" keySequence="CTRL+F10" command="_11g9NmgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYI2gtEeaC2vj1JV_XDw" keySequence="CTRL+A" command="_11g9bGgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYKGgtEeaC2vj1JV_XDw" keySequence="CTRL+C" command="_11g81WgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYKWgtEeaC2vj1JV_XDw" keySequence="ALT+PAGE_DOWN" command="_11g9eWgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYLWgtEeaC2vj1JV_XDw" keySequence="SHIFT+INSERT" command="_11g9FmgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYNGgtEeaC2vj1JV_XDw" keySequence="ALT+PAGE_UP" command="_11g9n2gtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYQGgtEeaC2vj1JV_XDw" keySequence="SHIFT+DEL" command="_11g9FWgtEeaC2vj1JV_XDw"/>
+  </bindingTables>
+  <bindingTables xmi:id="_12TnCGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.context.mindmap.traverse" bindingContext="_11g9w2gtEeaC2vj1JV_XDw">
+    <bindings xmi:id="_12TnCWgtEeaC2vj1JV_XDw" keySequence="CR" command="_11g9X2gtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYL2gtEeaC2vj1JV_XDw" keySequence="SHIFT+TAB" command="_11g83GgtEeaC2vj1JV_XDw"/>
+  </bindingTables>
+  <bindingTables xmi:id="_12TnC2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.context.mindmap" bindingContext="_11g9wGgtEeaC2vj1JV_XDw">
+    <bindings xmi:id="_12TnDGgtEeaC2vj1JV_XDw" keySequence="CTRL+0" command="_11g9b2gtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12TnHWgtEeaC2vj1JV_XDw" keySequence="SHIFT+F6" command="_11g9C2gtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dX9GgtEeaC2vj1JV_XDw" keySequence="CTRL+-" command="_11g9imgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dX9mgtEeaC2vj1JV_XDw" keySequence="F5" command="_11g9rGgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYAmgtEeaC2vj1JV_XDw" keySequence="CTRL++" command="_11g8zGgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYCmgtEeaC2vj1JV_XDw" keySequence="F6" command="_11g9UGgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYFmgtEeaC2vj1JV_XDw" keySequence="F7" command="_11g84GgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYH2gtEeaC2vj1JV_XDw" keySequence="F8" command="_11g9EGgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYMWgtEeaC2vj1JV_XDw" keySequence="CTRL+HOME" command="_11g82mgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYO2gtEeaC2vj1JV_XDw" keySequence="ALT+CTRL+A" command="_11g9P2gtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYPmgtEeaC2vj1JV_XDw" keySequence="CTRL+=" command="_11g8zGgtEeaC2vj1JV_XDw"/>
+    <bindings xmi:id="_12dYQWgtEeaC2vj1JV_XDw" keySequence="CTRL+SHIFT+A" command="_11g9e2gtEeaC2vj1JV_XDw"/>
+  </bindingTables>
+  <bindingTables xmi:id="_12TnD2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.context.commentsPopup" bindingContext="_11g9uWgtEeaC2vj1JV_XDw">
+    <bindings xmi:id="_12TnEGgtEeaC2vj1JV_XDw" keySequence="CTRL+CR" command="_11g9G2gtEeaC2vj1JV_XDw"/>
+  </bindingTables>
+  <bindingTables xmi:id="_12TnEmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.context.comments.edit" bindingContext="_11g9vmgtEeaC2vj1JV_XDw">
+    <bindings xmi:id="_12TnE2gtEeaC2vj1JV_XDw" keySequence="CTRL+CR" command="_11g9G2gtEeaC2vj1JV_XDw"/>
+  </bindingTables>
+  <bindingTables xmi:id="_12dYNmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.context.brainstorm.edit" bindingContext="_11g9tWgtEeaC2vj1JV_XDw">
+    <bindings xmi:id="_12dYN2gtEeaC2vj1JV_XDw" keySequence="DEL" command="_11g9W2gtEeaC2vj1JV_XDw">
+      <tags>platform:win32</tags>
+    </bindings>
+  </bindingTables>
+  <rootContext xmi:id="_107G6GgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.contexts.dialogAndWindow" contributorURI="platform:/plugin/org.xmind.cathy" name="&#x5728;&#x5c0d;&#x8a71;&#x6846;&#x548c;&#x8996;&#x7a97;&#x4e2d;" description="&#x5c0d;&#x8a71;&#x6846;&#x6216;&#x8996;&#x7a97;&#x662f;&#x958b;&#x555f;&#x7684;">
+    <children xmi:id="_107G6WgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.contexts.window" contributorURI="platform:/plugin/org.xmind.cathy" name="&#x5728;&#x8996;&#x7a97;&#x4e2d;" description="&#x8996;&#x7a97;&#x662f;&#x958b;&#x555f;&#x7684;">
+      <children xmi:id="_107G6mgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.textEditorScope" contributorURI="platform:/plugin/org.xmind.cathy" name="&#x7de8;&#x8f2f;&#x6587;&#x5b57;" description="&#x7de8;&#x8f2f;&#x6587;&#x5b57;&#x74b0;&#x5883;&#x5b9a;&#x7fa9;"/>
+      <children xmi:id="_107G62gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.contexts.dashboard" contributorURI="platform:/plugin/org.xmind.cathy" name="&#x65b0;&#x5efa;&#x6a94;&#x6848;&#x5c0e;&#x5f15;&#x4ecb;&#x9762;&#x6b63;&#x5728;&#x986f;&#x793a;"/>
+      <children xmi:id="_11g9tmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.context.notes.edit" name="&#x5099;&#x8a3b;&#x9762;&#x677f;" description="&#x5728;&#x5099;&#x8a3b;&#x9762;&#x677f;&#x5167;&#x9032;&#x884c;&#x7de8;&#x8f2f;"/>
+      <children xmi:id="_11g9t2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.context.gantt.taskTreeEdit" name="&#x7de8;&#x8f2f;&#x4efb;&#x52d9;&#x6a39;&#x72c0;&#x968e;&#x5c64;" description="&#x7de8;&#x8f2f;&#x7518;&#x7279;&#x5716;&#x7684;&#x4efb;&#x52d9;&#x6a39;&#x72c0;&#x968e;&#x5c64;"/>
+      <children xmi:id="_11g9uGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.context.gantt.edit" name="&#x7de8;&#x8f2f;&#x7518;&#x7279;&#x5716;&#x9762;&#x677f;" description="&#x7518;&#x7279;&#x5716;&#x4e2d;&#x7de8;&#x8f2f;"/>
+      <children xmi:id="_11g9vmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.context.comments.edit" name="&#x8a55;&#x8a3b;&#x9762;&#x677f;" description="&#x8a55;&#x8a3b;&#x9762;&#x677f;&#x4e2d;&#x7de8;&#x8f2f;&#x5167;&#x5bb9;"/>
+      <children xmi:id="_11g9wGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.context.mindmap" name="&#x5fc3;&#x667a;&#x5716;&#x7de8;&#x8f2f;&#x5668;" description="&#x5fc3;&#x667a;&#x5716;&#x5de5;&#x4f5c;&#x7c3f;&#x958b;&#x555f;&#x4e2d;">
+        <children xmi:id="_11g9wWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.context.mapShot" name="&#x64f7;&#x5716;" description="&#x9032;&#x884c;&#x756b;&#x9762;&#x64f7;&#x53d6;(&#x5feb;&#x7167;)"/>
+        <children xmi:id="_11g9wmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.context.mindmap.textEdit" name="&#x7de8;&#x8f2f;&#x5fc3;&#x667a;&#x5716;&#x6587;&#x5b57;" description="&#x7de8;&#x8f2f;&#x5fc3;&#x667a;&#x5716;&#x6587;&#x5b57;&#x5167;&#x5bb9;"/>
+        <children xmi:id="_11g9w2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.context.mindmap.traverse" name="&#x5207;&#x63db;&#x7126;&#x9ede;" description="&#x5728;&#x5143;&#x4ef6;&#x9593;&#x5207;&#x63db;&#x7126;&#x9ede;"/>
+        <children xmi:id="_11g9xGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.context.backcover" name="&#x5fc3;&#x667a;&#x5716;&#x7de8;&#x8f2f;&#x5668;&#x80cc;&#x9801;&#x5c01;&#x9762;" description="&#x986f;&#x793a;&#x5fc3;&#x667a;&#x5716;&#x7de8;&#x8f2f;&#x5668;&#x80cc;&#x9801;&#x5c01;&#x9762;"/>
+        <children xmi:id="_11g9xWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.context.mindmap.edit" name="&#x7de8;&#x8f2f;&#x5fc3;&#x667a;&#x5716;" description="&#x7de8;&#x8f2f;&#x5fc3;&#x667a;&#x5716;"/>
+      </children>
+    </children>
+    <children xmi:id="_107G7GgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.contexts.dialog" contributorURI="platform:/plugin/org.xmind.cathy" name="&#x5728;&#x5c0d;&#x8a71;&#x6846;&#x4e2d;" description="&#x5c0d;&#x8a71;&#x6846;&#x662f;&#x958b;&#x555f;&#x7684;">
+      <children xmi:id="_11g9tWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.context.brainstorm.edit" name="&#x555f;&#x52d5;&#x8166;&#x529b;&#x6fc0;&#x76ea;" description="&#x5728;&#x8166;&#x529b;&#x6fc0;&#x76ea;&#x6a21;&#x5f0f;&#x4e2d;&#x7de8;&#x8f2f;"/>
+      <children xmi:id="_11g9uWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.context.commentsPopup" name="&#x5099;&#x8a3b;&#x63d0;&#x793a;&#x6846;" description="&#x4fee;&#x6539;&#x8a55;&#x8a3b;&#x65bc;&#x63d0;&#x793a;&#x6846;&#x4e2d;"/>
+      <children xmi:id="_11g9vGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.context.notesPopup" name="&#x5099;&#x8a3b;&#x63d0;&#x793a;&#x6846;" description="&#x4fee;&#x6539;&#x5099;&#x8a3b;&#x65bc;&#x63d0;&#x793a;&#x6846;&#x4e2d;"/>
+      <children xmi:id="_11g9vWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.context.editingStyle" name="&#x7de8;&#x8f2f;&#x6a23;&#x5f0f;/&#x98a8;&#x683c;" description="&#x6b63;&#x5728;&#x7de8;&#x8f2f;&#x6a23;&#x5f0f;&#x6216;&#x98a8;&#x683c;"/>
+      <children xmi:id="_11g9v2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.context.presentation.edit" name="&#x958b;&#x59cb;&#x7c21;&#x5831;&#x6f14;&#x793a;" description="&#x7c21;&#x5831;&#x6f14;&#x793a;&#x6a21;&#x5f0f;&#x7de8;&#x8f2f;"/>
+    </children>
+  </rootContext>
+  <rootContext xmi:id="_11g9umgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.contexts.actionSet" name="&#x52a8;&#x4f5c;&#x8bbe;&#x7f6e;" description="&#x4e0a;&#x5c42;&#x83dc;&#x5355;&#x52a8;&#x4f5c;&#x8bbe;&#x7f6e;"/>
+  <rootContext xmi:id="_11g9u2gtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.contexts.workbenchMenu" name="&#x5de5;&#x4f5c;&#x53f0;&#x83dc;&#x5355;" description="&#x5f53;&#x6ca1;&#x6709;&#x5de5;&#x4f5c;&#x53f0;&#x7684;&#x65f6;&#x5019;&#x7a97;&#x53e3;&#x662f;&#x6d3b;&#x52a8;&#x7684;"/>
+  <descriptors xmi:id="_15bzcGgtEeaC2vj1JV_XDw" elementId="org.eclipse.e4.ui.compatibility.editor" allowMultiple="true" category="org.eclipse.e4.primaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor">
+    <tags>Editor</tags>
+  </descriptors>
+  <descriptors xmi:id="_15bzcWgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.internal.introview" label="&#x6b61;&#x8fce;&#x4f7f;&#x7528;" iconURI="platform:/plugin/org.eclipse.ui/icons/full/eview16/defaultview_misc.png" tooltip="" category="&#x4e00;&#x822c;" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:&#x4e00;&#x822c;</tags>
+  </descriptors>
+  <descriptors xmi:id="_15k9YGgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.views.ProgressView" label="&#x9032;&#x5ea6;" iconURI="platform:/plugin/org.xmind.cathy/icons/views/pview.gif" tooltip="" category="&#x4e00;&#x822c;" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:&#x4e00;&#x822c;</tags>
+  </descriptors>
+  <descriptors xmi:id="_15k9YWgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.views.ContentOutline" label="&#x7db1;&#x8981;" iconURI="platform:/plugin/org.xmind.ui/icons/e/outline_co.gif" tooltip="" category="&#x4e00;&#x822c;" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:&#x4e00;&#x822c;</tags>
+  </descriptors>
+  <descriptors xmi:id="_15uuYGgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.views.PropertySheet" label="&#x5c6c;&#x6027;" iconURI="platform:/plugin/org.xmind.ui/icons/e/prop_ps.gif" tooltip="" category="&#x4e00;&#x822c;" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:&#x4e00;&#x822c;</tags>
+  </descriptors>
+  <descriptors xmi:id="_15uuYWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.MarkerView" label="&#x5716;&#x6a19;" iconURI="platform:/plugin/org.xmind.ui/icons/e/markers.gif" tooltip="" category="&#x8cc7;&#x6e90;" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:&#x8cc7;&#x6e90;</tags>
+  </descriptors>
+  <descriptors xmi:id="_15uuYmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.NotesView" label="&#x5099;&#x8a3b;" iconURI="platform:/plugin/org.xmind.ui/icons/e/menu_window_notes.png" tooltip="" category="&#x5fc3;&#x667a;&#x5716;" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:&#x5fc3;&#x667a;&#x5716;</tags>
+  </descriptors>
+  <descriptors xmi:id="_15uuY2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.OverviewView" label="&#x5168;&#x89bd;" iconURI="platform:/plugin/org.xmind.ui/icons/e/overview.png" tooltip="" category="&#x5fc3;&#x667a;&#x5716;" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:&#x5fc3;&#x667a;&#x5716;</tags>
+  </descriptors>
+  <descriptors xmi:id="_15uuZGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.ThemesView" label="&#x98a8;&#x683c;" iconURI="platform:/plugin/org.xmind.ui/icons/e/theme.gif" tooltip="" category="&#x8cc7;&#x6e90;" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:&#x8cc7;&#x6e90;</tags>
+  </descriptors>
+  <descriptors xmi:id="_16BpUGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.RevisionsView" label="&#x4fee;&#x8a02;&#x6b77;&#x53f2;" iconURI="platform:/plugin/org.xmind.ui/icons/e/revisions.gif" tooltip="" category="&#x5fc3;&#x667a;&#x5716;" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:&#x5fc3;&#x667a;&#x5716;</tags>
+  </descriptors>
+  <descriptors xmi:id="_16BpUWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.BlackBoxView" label="&#x9ed1;&#x7bb1;" iconURI="platform:/plugin/org.xmind.ui/icons/e/blackboxview.gif" tooltip="" category="&#x5fc3;&#x667a;&#x5716;" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:&#x5fc3;&#x667a;&#x5716;</tags>
+  </descriptors>
+  <descriptors xmi:id="_16BpUmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.CommentsView" label="&#x8a55;&#x8a3b;" iconURI="platform:/plugin/org.xmind.ui/icons/e/menu_window_comments.png" tooltip="" category="&#x5fc3;&#x667a;&#x5716;" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:&#x5fc3;&#x667a;&#x5716;</tags>
+  </descriptors>
+  <descriptors xmi:id="_16BpU2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.InspectorView" label="&#x76e3;&#x88fd;" iconURI="platform:/plugin/org.xmind.ui/icons/e/inspector.png" tooltip="" category="&#x5fc3;&#x667a;&#x5716;" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:&#x5fc3;&#x667a;&#x5716;</tags>
+  </descriptors>
+  <descriptors xmi:id="_16BpVGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.AudioNotesView" label="&#x9304;&#x97f3;" iconURI="platform:/plugin/org.xmind.ui.audionotes/icons/audio_view.png" tooltip="" category="&#x5fc3;&#x667a;&#x5716;" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:&#x5fc3;&#x667a;&#x5716;</tags>
+  </descriptors>
+  <descriptors xmi:id="_16LaUGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.BrowserView" label="&#x7db2;&#x9801;&#x700f;&#x89bd;&#x5668;" iconURI="platform:/plugin/org.xmind.ui.browser/icons/browser.gif" tooltip="" allowMultiple="true" category="&#x8cc7;&#x6e90;" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:&#x8cc7;&#x6e90;</tags>
+  </descriptors>
+  <descriptors xmi:id="_16LaUWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.GalleryView" label="&#x7f8e;&#x5de5;&#x5716;&#x6848;" iconURI="platform:/plugin/org.xmind.ui.gallery/icons/gallery.gif" tooltip="" category="&#x8cc7;&#x6e90;" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:&#x8cc7;&#x6e90;</tags>
+  </descriptors>
+  <descriptors xmi:id="_16LaUmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.GanttView" label="&#x7518;&#x7279;&#x5716;(&#x5c08;&#x6848;&#x6392;&#x7a0b;)" iconURI="platform:/plugin/org.xmind.ui.gantt/icons/e/gantt.png" tooltip="" category="&#x4efb;&#x52d9;" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:&#x4efb;&#x52d9;</tags>
+  </descriptors>
+  <descriptors xmi:id="_16LaU2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.IndexView" label="&#x7d22;&#x5f15;" iconURI="platform:/plugin/org.xmind.ui.index/icons/index.png" tooltip="" category="&#x8cc7;&#x6e90;" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:&#x8cc7;&#x6e90;</tags>
+  </descriptors>
+  <descriptors xmi:id="_16LaVGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.FilterView" label="&#x7be9;&#x9078;" iconURI="platform:/plugin/org.xmind.ui.mindmap.filtering/icons/filter.gif" tooltip="" category="&#x5fc3;&#x667a;&#x5716;" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:&#x5fc3;&#x667a;&#x5716;</tags>
+  </descriptors>
+  <descriptors xmi:id="_16LaVWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.SearchWorkbooksView" label="&#x641c;&#x5c0b;" iconURI="platform:/plugin/org.xmind.ui.search/icons/search-workspace.gif" tooltip="" category="&#x5fc3;&#x667a;&#x5716;" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:&#x5fc3;&#x667a;&#x5716;</tags>
+  </descriptors>
+  <descriptors xmi:id="_16UkQGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.LocalNetworkSharingView" label="&#x672c;&#x5730;&#x7db2;&#x8def;&#x5206;&#x4eab;" iconURI="platform:/plugin/org.xmind.ui.sharing/icons/localnetwork.gif" tooltip="" category="&#x8cc7;&#x6e90;" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:&#x8cc7;&#x6e90;</tags>
+  </descriptors>
+  <descriptors xmi:id="_16UkQWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.SpellingCheckView" label="&#x62fc;&#x5b57;" iconURI="platform:/plugin/org.xmind.ui/icons/e/spellcheck.png" tooltip="" category="&#x4e00;&#x822c;" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:&#x4e00;&#x822c;</tags>
+  </descriptors>
+  <descriptors xmi:id="_16UkQmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.TaskInfoView" label="&#x4efb;&#x52d9;&#x8cc7;&#x8a0a;" iconURI="platform:/plugin/org.xmind.ui.taskinfo/icons/e/taskinfo.png" tooltip="" category="&#x4efb;&#x52d9;" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:&#x4efb;&#x52d9;</tags>
+  </descriptors>
+  <snippets xsi:type="basic:Part" xmi:id="_107G7WgtEeaC2vj1JV_XDw" elementId="org.xmind.cathy.part.dashboard" contributorURI="platform:/plugin/org.xmind.cathy" contributionURI="bundleclass://org.xmind.cathy/org.xmind.cathy.internal.dashboard.DashboardPart" label="Home" bindingContexts="_107G62gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_107G7mgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.file.export" contributorURI="platform:/plugin/org.xmind.cathy"/>
+  <commands xmi:id="_107G72gtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.views.showView" contributorURI="platform:/plugin/org.xmind.cathy"/>
+  <commands xmi:id="_11g8wGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.sharing.localnetwork.shareLocalMaps" commandName="&#x5728;&#x672c;&#x5730;&#x7db2;&#x8def;&#x5206;&#x4eab;&#x6a94;&#x6848;" description="&#x5206;&#x4eab;&#x96fb;&#x8166;&#x4e2d;&#x7684;&#x5fc3;&#x667a;&#x5716;&#x5230;&#x672c;&#x5730;&#x5340;&#x57df;&#x7db2;&#x8def;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g8wWgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.window.pinEditor" commandName="&#x56fa;&#x5b9a;&#x7de8;&#x8f2f;&#x5668;" description="&#x56fa;&#x5b9a;&#x73fe;&#x884c;&#x7de8;&#x8f2f;&#x5668;" category="_11XLx2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g8wmgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.navigate.nextTab" commandName="&#x4e0b;&#x4e00;&#x4e2a;&#x6807;&#x7b7e;" description="&#x5207;&#x6362;&#x5230;&#x4e0b;&#x4e00;&#x4e2a;&#x6807;&#x7b7e;" category="_11XLwmgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g8w2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.saveTemplate" commandName="&#x5b58;&#x6210;&#x7bc4;&#x672c;&#x2026;" category="_11XLxWgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g8xGgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.window.quickAccess" commandName="&#x5feb;&#x901f;&#x5b58;&#x53d6;" description="&#x5feb;&#x901f;&#x8bbf;&#x95ee;&#x7528;&#x6237;&#x754c;&#x9762;&#x5143;&#x7d20;" category="_11XLx2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g8xWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.sharing.localnetwork.enableService" commandName="&#x672c;&#x5730;&#x7db2;&#x8def;&#x5206;&#x4eab;&#x8f49;&#x70ba;&#x9023;&#x7dda;" description="&#x672c;&#x5730;&#x7db2;&#x8def;&#x5206;&#x4eab;&#x4f3a;&#x670d;&#x8f49;&#x70ba;&#x9023;&#x7dda;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g8xmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.extendAll" commandName="&#x5c55;&#x958b;&#x5168;&#x90e8;" description="&#x5c55;&#x958b;&#x4e3b;&#x984c;&#x53ca;&#x5176;&#x6240;&#x6709;&#x5206;&#x652f;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g8x2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.text.underline" commandName="&#x5e95;&#x7dda;" description="&#x5207;&#x63db;&#x5e95;&#x7dda;&#x5b57;&#x578b;" category="_11XLymgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g8yGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.insertTopic" commandName="&#x63d2;&#x5165;&#x4e3b;&#x984c;" description="&#x63d2;&#x5165;&#x4e3b;&#x984c;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g8yWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.style.apply" commandName="&#x5957;&#x7528;&#x98a8;&#x683c;" description="&#x5957;&#x7528;&#x6240;&#x9078;&#x98a8;&#x683c;&#x81f3;&#x76ee;&#x524d;&#x7de8;&#x8f2f;" category="_11XLxGgtEeaC2vj1JV_XDw">
+    <parameters xmi:id="_11g8ymgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.resource.uri" name="&#x6a23;&#x5f0f; URI"/>
+  </commands>
+  <commands xmi:id="_11g8y2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.biggerplate" commandName="&#x4e0a;&#x50b3;&#x81f3; Biggerplate.com &#x7db2;&#x7ad9;" description="&#x4e0a;&#x50b3;&#x5716;&#x9762;&#x81f3; Biggerplate.com &#x7db2;&#x7ad9;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g8zGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.zoomIn" commandName="&#x653e;&#x5927;&#x756b;&#x9762;" description="&#x653e;&#x5927;&#x756b;&#x9762;" category="_11XLyWgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g8zWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.extractTheme" commandName="&#x5b58;&#x7528;&#x98a8;&#x683c; [Pro]" description="&#x5b58;&#x7528;&#x98a8;&#x683c;&#x4f86;&#x81ea;&#x76ee;&#x524d;&#x9801;&#x9762;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g8zmgtEeaC2vj1JV_XDw" elementId="net.xmind.ui.command.subscribeNewsletter" commandName="&#x8a02;&#x95b1; XMind &#x96fb;&#x5b50;&#x5831;&#x2026;" description="&#x8a02;&#x95b1; XMind &#x96fb;&#x5b50;&#x5831;" category="_11XLxmgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g8z2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.insertFloatingCentralTopic" commandName="&#x63d2;&#x5165;&#x6d6e;&#x52d5;&#x4e2d;&#x5fc3;&#x4e3b;&#x984c;" description="&#x63d2;&#x5165;&#x6d6e;&#x52d5;&#x4e2d;&#x5fc3;&#x4e3b;&#x984c;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g80GgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.file.properties" commandName="&#x5167;&#x5bb9;" description="&#x986f;&#x793a;&#x6240;&#x9078;&#x9805;&#x76ee;&#x7684;&#x5167;&#x5bb9;" category="_11XLxWgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g80WgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.window.preferences" commandName="&#x559c;&#x597d;&#x8a2d;&#x5b9a;" description="&#x958b;&#x555f;&#x559c;&#x597d;&#x8a2d;&#x5b9a;&#x5c0d;&#x8a71;&#x6846;" category="_11XLx2gtEeaC2vj1JV_XDw">
+    <parameters xmi:id="_11g80mgtEeaC2vj1JV_XDw" elementId="preferencePageId" name="&#x559c;&#x597d;&#x8a2d;&#x5b9a;&#x9801;&#x9762;"/>
+  </commands>
+  <commands xmi:id="_11g802gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.commitNotes" commandName="&#x63d0;&#x4ea4;&#x5099;&#x8a3b;" description="&#x63d0;&#x4ea4;&#x4fee;&#x6539;&#x53ca;&#x95dc;&#x9589;&#x5099;&#x8a3b;&#x63d0;&#x793a;&#x6846;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g81GgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.activeContextInfo" commandName="&#x663e;&#x793a; activeContext &#x4fe1;&#x606f;" category="_11XLx2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g81WgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.edit.copy" commandName="&#x8907;&#x88fd;" description="&#x5c07;&#x9078;&#x64c7;&#x8907;&#x88fd;&#x5230;&#x526a;&#x8cbc;&#x7c3f;" category="_11XLw2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g81mgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.checkSpelling" commandName="&#x6aa2;&#x67e5;&#x62fc;&#x5b57;" description="&#x76ee;&#x524d;&#x7de8;&#x8f2f;&#x5668;&#x5167;&#x6aa2;&#x67e5;&#x62da;&#x5b57;&#x932f;&#x8aa4;&#x3002;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g812gtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.window.nextView" commandName="&#x4e0b;&#x4e00;&#x500b;&#x8996;&#x5716;" description="&#x5207;&#x63db;&#x81f3;&#x4e0b;&#x4e00;&#x500b;&#x8996;&#x5716;" category="_11XLx2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g82GgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.edit.text.contentAssist.contextInformation" commandName="&#x74b0;&#x5883;&#x5b9a;&#x7fa9;&#x8cc7;&#x8a0a;" description="&#x986f;&#x793a;&#x74b0;&#x5883;&#x5b9a;&#x7fa9;&#x8cc7;&#x8a0a;" category="_11XLw2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g82WgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.file.saveAs" commandName="&#x53e6;&#x5b58;&#x65b0;&#x6a94;" description="&#x5c07;&#x73fe;&#x884c;&#x5167;&#x5bb9;&#x5132;&#x5b58;&#x5728;&#x53e6;&#x4e00;&#x500b;&#x4f4d;&#x7f6e;" category="_11XLxWgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g82mgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.goHome" commandName="&#x8df3;&#x56de;&#x9996;&#x9801;" description="&#x8df3;&#x56de;&#x4e2d;&#x5fc3;&#x4e3b;&#x984c;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g822gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.cancelHyperlink" commandName="&#x53d6;&#x6d88;&#x8d85;&#x9023;&#x7d50;" description="&#x53d6;&#x6d88;&#x8d85;&#x9023;&#x7d50;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g83GgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.traverse" commandName="&#x5207;&#x63db;&#x7126;&#x9ede;" description="&#x5728;&#x76f8;&#x9130;&#x5143;&#x4ef6;&#x4e4b;&#x9593;&#x5207;&#x63db;&#x7126;&#x9ede;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g83WgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.window.previousPerspective" commandName="&#x4e0a;&#x4e00;&#x500b;&#x8996;&#x666f;" description="&#x5207;&#x63db;&#x81f3;&#x4e0a;&#x4e00;&#x500b;&#x8996;&#x666f;" category="_11XLx2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g83mgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.window.splitEditor" commandName="&#x5207;&#x6362;&#x5206;&#x5272;&#x7f16;&#x8f91;&#x5668;" description="&#x5206;&#x5272;&#x6216;&#x5408;&#x5e76;&#x5f53;&#x524d;&#x6d3b;&#x52a8;&#x7f16;&#x8f91;&#x5668;." category="_11XLx2gtEeaC2vj1JV_XDw">
+    <parameters xmi:id="_11g832gtEeaC2vj1JV_XDw" elementId="Splitter.isHorizontal" name="&#x65b9;&#x5411;" optional="false"/>
+  </commands>
+  <commands xmi:id="_11g84GgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.mapShot" commandName="&#x64f7;&#x5716; [Pro]" description="&#x9032;&#x884c;&#x756b;&#x9762;&#x64f7;&#x5716;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g84WgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.clearMarkers" commandName="&#x6e05;&#x9664;&#x5716;&#x6a19;" description="&#x6e05;&#x9664;&#x5716;&#x6a19;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g84mgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.merge" commandName="&#x5408;&#x4f75;&#x2026; [Pro]" description="&#x5408;&#x4f75;&#x5fc3;&#x667a;&#x5716;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g842gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.fitSelection" commandName="&#x7e2e;&#x653e;&#x5340;&#x57df;&#x7b26;&#x5408;&#x756b;&#x9762;" description="&#x7e2e;&#x653e;&#x9078;&#x64c7;&#x5340;&#x57df;&#x7b26;&#x5408;&#x756b;&#x9762;&#x5927;&#x5c0f;" category="_11XLyWgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g85GgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.navigate.collapseAll" commandName="&#x5168;&#x90e8;&#x6536;&#x5408;" description="&#x6298;&#x53e0;&#x5f53;&#x524d;&#x6811;" category="_11XLwmgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g85WgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.navigate.goInto" commandName="&#x79fb;&#x81f3;" description="&#x5c0e;&#x89bd;&#x81f3;&#x6240;&#x9078;&#x9805;&#x76ee;" category="_11XLwmgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g85mgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.openWorkbook" commandName="&#x958b;&#x555f;&#x5de5;&#x4f5c;&#x7c3f;" description="&#x958b;&#x555f; XMind &#x5de5;&#x4f5c;&#x7c3f;" category="_11XLxGgtEeaC2vj1JV_XDw">
+    <parameters xmi:id="_11g852gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.openWorkbook.uri" name="URI"/>
+  </commands>
+  <commands xmi:id="_11g86GgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.window.maximizePart" commandName="&#x5c07;&#x4f5c;&#x7528;&#x4e2d;&#x8996;&#x5716;&#x6216;&#x7de8;&#x8f2f;&#x5668;&#x6700;&#x5927;&#x5316;" description="&#x5207;&#x63db;&#x4f5c;&#x7528;&#x4e2d;&#x8996;&#x5716;&#x6216;&#x7de8;&#x8f2f;&#x5668;&#x7684;&#x6700;&#x5927;&#x5316;/&#x9084;&#x539f;&#x72c0;&#x614b;" category="_11XLx2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g86WgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.window.lockToolBar" commandName="&#x9396;&#x5b9a;&#x5de5;&#x5177;&#x5217;" description="&#x9396;&#x5b9a;&#x5de5;&#x5177;&#x5217;" category="_11XLx2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g86mgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.window.newEditor" commandName="&#x65b0;&#x5efa;&#x7de8;&#x8f2f;&#x5668;" description="&#x5728;&#x4f5c;&#x7528;&#x4e2d;&#x7684;&#x7de8;&#x8f2f;&#x5668;&#x8f38;&#x5165;&#x4e0a;&#x958b;&#x555f;&#x53e6;&#x4e00;&#x500b;&#x7de8;&#x8f2f;&#x5668;" category="_11XLx2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g862gtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.window.minimizePart" commandName="&#x5c07;&#x4f5c;&#x7528;&#x4e2d;&#x8996;&#x5716;&#x6216;&#x7de8;&#x8f2f;&#x5668;&#x6700;&#x5c0f;&#x5316;" description="&#x5c07;&#x4f5c;&#x7528;&#x4e2d;&#x7684;&#x8996;&#x5716;&#x6216;&#x7de8;&#x8f2f;&#x5668;&#x6700;&#x5c0f;&#x5316;" category="_11XLx2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g87GgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.duplicateSheet" commandName="&#x91cd;&#x88fd;&#x4e3b;&#x984c;" description="&#x91cd;&#x88fd;&#x9801;&#x9762;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g87WgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.insertTopicBefore" commandName="&#x63d2;&#x5165;&#x4e3b;&#x984c;(&#x524d;&#x4f4d;)" description="&#x63d2;&#x5165;&#x4e3b;&#x984c;(&#x524d;&#x4f4d;)" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g87mgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.edit.text.contentAssist.proposals" commandName="&#x5167;&#x5bb9;&#x8f14;&#x52a9;" description="&#x5167;&#x5bb9;&#x8f14;&#x52a9;" category="_11XLw2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g872gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.fitMap" commandName="&#x7e2e;&#x653e;&#x5716;&#x9762;&#x7b26;&#x5408;&#x756b;&#x9762;" description="&#x7e2e;&#x653e;&#x6574;&#x500b;&#x5716;&#x9762;&#x7b26;&#x5408;&#x756b;&#x9762;&#x5927;&#x5c0f;" category="_11XLyWgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g88GgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.navigate.up" commandName="&#x4e0a;" description="&#x5c0e;&#x89bd;&#x4e0a;&#x4e00;&#x5c64;" category="_11XLwmgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g88WgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.window.activateEditor" commandName="&#x555f;&#x52d5;&#x7de8;&#x8f2f;&#x5668;" description="&#x555f;&#x52d5;&#x7de8;&#x8f2f;&#x5668;" category="_11XLx2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g88mgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.window.showSystemMenu" commandName="&#x986f;&#x793a;&#x7cfb;&#x7d71;&#x529f;&#x80fd;&#x8868;" description="&#x986f;&#x793a;&#x7cfb;&#x7d71;&#x529f;&#x80fd;&#x8868;" category="_11XLx2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g882gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.createBoundary" commandName="&#x52a0;&#x4e0a;&#x5916;&#x6846;" description="&#x52a0;&#x4e0a;&#x5916;&#x6846;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g89GgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.style.edit" commandName="&#x7de8;&#x8f2f;&#x6a23;&#x5f0f; [Pro]" description="&#x958b;&#x555f;&#x63d0;&#x793a;&#x6846;&#x7de8;&#x8f2f;&#x6a23;&#x5f0f;" category="_11XLxmgtEeaC2vj1JV_XDw">
+    <parameters xmi:id="_11g89WgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.resource.uri" name="&#x6a23;&#x5f0f; URI"/>
+  </commands>
+  <commands xmi:id="_11g89mgtEeaC2vj1JV_XDw" elementId="net.xmind.ui.command.signIn" commandName="&#x767b;&#x5165; XMind.net &#x2026;" description="&#x767b;&#x5165; XMind.net &#x4e26;&#x986f;&#x793a;&#x5e33;&#x6236;&#x7db2;&#x9801;" category="_11XLxmgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g892gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.search" commandName="&#x5728;&#x7db2;&#x8def;&#x4e0a;&#x641c;&#x5c0b;" description="&#x641c;&#x5c0b;&#x7db2;&#x8def;&#x8cc7;&#x6599;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g8-GgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.text.centerAlign" commandName="&#x7f6e;&#x4e2d;&#x5c0d;&#x9f4a;" description="&#x6587;&#x5b57;&#x7f6e;&#x4e2d;&#x5c0d;&#x9f4a;" category="_11XLymgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g8-WgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.sharing.localnetwork.disableService" commandName="&#x672c;&#x5730;&#x7db2;&#x8def;&#x5206;&#x4eab;&#x8f49;&#x70ba;&#x96e2;&#x7dda;" description="&#x672c;&#x5730;&#x7db2;&#x8def;&#x5206;&#x4eab;&#x4f3a;&#x670d;&#x8f49;&#x70ba;&#x96e2;&#x7dda;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g8-mgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.window.savePerspective" commandName="&#x53e6;&#x5b58;&#x65b0;&#x8996;&#x666f;" description="&#x5132;&#x5b58;&#x73fe;&#x884c;&#x8996;&#x666f;" category="_11XLx2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g8-2gtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.edit.move" commandName="&#x79fb;&#x52d5;" description="&#x79fb;&#x52d5;&#x6240;&#x9078;&#x7684;&#x9805;&#x76ee;" category="_11XLxWgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g8_GgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.moveUp" commandName="&#x524d;&#x79fb;" description="&#x4e3b;&#x984c;&#x5411;&#x524d;&#x79fb;&#x52d5;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g8_WgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.saveAudioNoteAs" commandName="&#x53e6;&#x5b58;&#x9304;&#x97f3;&#x6a94;&#x6848;&#x2026;" description="&#x53e6;&#x5b58;&#x9304;&#x97f3;&#x6a94;&#x6848;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g8_mgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.perspectives.showPerspective" commandName="&#x663e;&#x793a;&#x900f;&#x89c6;&#x56fe;" description="&#x663e;&#x793a;&#x7279;&#x5b9a;&#x900f;&#x89c6;&#x56fe;" category="_11XLwWgtEeaC2vj1JV_XDw">
+    <parameters xmi:id="_11g8_2gtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.perspectives.showPerspective.perspectiveId" name="&#x53c3;&#x6578;"/>
+    <parameters xmi:id="_11g9AGgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.perspectives.showPerspective.newWindow" name="&#x5728;&#x65b0;&#x7a97;&#x53e3;"/>
+  </commands>
+  <commands xmi:id="_11g9AWgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.navigate.linkWithEditor" commandName="&#x5173;&#x8054;&#x7f16;&#x8f91;&#x5668;&#x94fe;&#x63a5;" description="&#x5c06;&#x89c6;&#x56fe;&#x7684;&#x9009;&#x62e9;&#x9879;&#x4e0e;&#x5f53;&#x524d;&#x6d3b;&#x52a8;&#x7f16;&#x8f91;&#x5668;&#x7684;&#x9009;&#x62e9;&#x9879;&#x76f8;&#x5173;&#x8054;" category="_11XLwmgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9AmgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.window.openEditorDropDown" commandName="&#x5feb;&#x901f;&#x5207;&#x63db;&#x7de8;&#x8f2f;&#x5668;" description="&#x958b;&#x555f;&#x7de8;&#x8f2f;&#x5668;&#x4e0b;&#x62c9;&#x6e05;&#x55ae;" category="_11XLx2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9A2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.newTheme" commandName="&#x65b0;&#x5efa;&#x98a8;&#x683c; [Pro]" description="&#x65b0;&#x5efa;&#x98a8;&#x683c; [Pro]" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9BGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.text.outdent" commandName="&#x6e1b;&#x5c0f;&#x7e2e;&#x6392;" description="&#x6bb5;&#x843d;&#x9996;&#x5217;&#x6e1b;&#x5c0f;&#x7e2e;&#x6392;" category="_11XLymgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9BWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.properties.duplicate" commandName="&#x91cd;&#x88fd;" category="_11XLyGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9BmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.insertFloatingTopic" commandName="&#x63d2;&#x5165;&#x6d6e;&#x52d5;&#x4e3b;&#x984c;" description="&#x63d2;&#x5165;&#x6d6e;&#x52d5;&#x4e3b;&#x984c;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9B2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.openHomeMap" commandName="&#x958b;&#x555f;&#x81ea;&#x5b9a;&#x6a94;&#x6848;" description="&#x958b;&#x555f;&#x81ea;&#x5b9a;&#x6a94;&#x6848;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9CGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.alignment" commandName="&#x5c0d;&#x9f4a;" category="_11XLxGgtEeaC2vj1JV_XDw">
+    <parameters xmi:id="_11g9CWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.alignmentParameter" name="&#x5c0d;&#x9f4a;&#x53c3;&#x6578;"/>
+  </commands>
+  <commands xmi:id="_11g9CmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.welcome" commandName="&#x6b61;&#x8fce;&#x4f7f;&#x7528; XMind" description="&#x986f;&#x793a;&#x6b61;&#x8fce;&#x8cc7;&#x8a0a;" category="_11XLy2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9C2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.drillUp" commandName="&#x4e0a;&#x947d;&#x4e00;&#x5c64;" description="&#x8fd4;&#x56de;&#x4e0b;&#x947d;&#x524d;&#x7684;&#x968e;&#x5c64;&#x4f4d;&#x7f6e;" category="_11XLyWgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9DGgtEeaC2vj1JV_XDw" elementId="com.xmindshare.uploader.commands.upload" commandName="&#x5206;&#x4eab;&#x65bc; XMind.net &#x7db2;&#x7ad9;" description="&#x4e0a;&#x50b3;&#x5fc3;&#x667a;&#x5716;&#x5716;&#x9762;&#x81f3; XMind.net &#x7db2;&#x7ad9;&#x8207;&#x4eba;&#x5206;&#x4eab;" category="_11XLxmgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9DWgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.window.resetPerspective" commandName="&#x91cd;&#x8a2d;&#x8996;&#x666f;" description="&#x5c07;&#x73fe;&#x884c;&#x8996;&#x666f;&#x91cd;&#x8a2d;&#x70ba;&#x9810;&#x8a2d;&#x72c0;&#x614b;" category="_11XLx2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9DmgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.edit.undo" commandName="&#x5fa9;&#x539f;" description="&#x5fa9;&#x539f;&#x524d;&#x6b21;&#x4f5c;&#x696d;" category="_11XLw2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9D2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.insertCallout" commandName="&#x63d2;&#x5165;&#x8a3b;&#x89e3;" description="&#x5728;&#x6240;&#x9078;&#x4e3b;&#x984c;&#x4e0a;&#x63d2;&#x5165;&#x8a3b;&#x89e3;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9EGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.brainstorm" commandName="&#x958b;&#x59cb;&#x8166;&#x529b;&#x6fc0;&#x76ea;" description="&#x958b;&#x59cb;&#x8166;&#x529b;&#x6fc0;&#x76ea;&#x6a21;&#x5f0f;" category="_11XLyWgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9EWgtEeaC2vj1JV_XDw" elementId="net.xmind.ui.command.activatePro" commandName="&#x555f;&#x7528; XMind Pro/Plus &#x9032;&#x968e;&#x529f;&#x80fd;" description="&#x4f7f;&#x7528;&#x6709;&#x6548;&#x7684; XMind Pro/Plus &#x6388;&#x6b0a;&#x5e8f;&#x865f;&#x6216;&#x8a02;&#x7528;&#x6388;&#x6b0a;&#x5e33;&#x6236;&#xff0c;&#x4ee5;&#x80fd;&#x555f;&#x7528;&#x9032;&#x968e;&#x529f;&#x80fd;&#x3002;" category="_11XLxmgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9EmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.insertSubtopic" commandName="&#x63d2;&#x5165;&#x5206;&#x652f;&#x4e3b;&#x984c;" description="&#x63d2;&#x5165;&#x5206;&#x652f;&#x4e3b;&#x984c;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9E2gtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.file.closeAll" commandName="&#x5168;&#x90e8;&#x95dc;&#x9589;" description="&#x95dc;&#x9589;&#x6240;&#x6709;&#x7de8;&#x8f2f;&#x5668;" category="_11XLxWgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9FGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.editTitle" commandName="&#x7de8;&#x8f2f;&#x6a19;&#x984c;" description="&#x4fee;&#x6539;&#x6a19;&#x984c;&#x6587;&#x5b57;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9FWgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.edit.cut" commandName="&#x526a;&#x4e0b;" description="&#x526a;&#x4e0b;&#x9078;&#x64c7;&#x4e26;&#x653e;&#x81f3;&#x526a;&#x8cbc;&#x7c3f;" category="_11XLw2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9FmgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.edit.paste" commandName="&#x8cbc;&#x4e0a;" description="&#x5f9e;&#x526a;&#x8cbc;&#x7c3f;&#x8cbc;&#x4e0a;" category="_11XLw2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9F2gtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.part.nextPage" commandName="&#x4e0b;&#x4e00;&#x9801;" description="&#x5207;&#x6362;&#x81f3;&#x4e0b;&#x4e00;&#x4e2a;&#x9875;&#x9762;" category="_11XLwmgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9GGgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.navigate.previous" commandName="&#x4e0a;&#x4e00;&#x500b;" description="&#x5c0e;&#x89bd;&#x81f3;&#x4e0a;&#x4e00;&#x500b;&#x9805;&#x76ee;" category="_11XLwmgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9GWgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.edit.rename" commandName="&#x91cd;&#x65b0;&#x547d;&#x540d;" description="&#x91cd;&#x65b0;&#x547d;&#x540d;&#x6240;&#x9078;&#x7684;&#x9805;&#x76ee;" category="_11XLxWgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9GmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.sharing.localnetwork.openSharedMap" commandName="&#x958b;&#x555f;&#x5206;&#x4eab;&#x7684;&#x5fc3;&#x667a;&#x5716;" description="&#x958b;&#x555f;&#x7531;&#x672c;&#x5730;&#x6216;&#x9060;&#x7aef;&#x4f7f;&#x7528;&#x8005;&#x6240;&#x5206;&#x4eab;&#x7684;&#x5fc3;&#x667a;&#x5716;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9G2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.commitComments" commandName="&#x63d0;&#x4ea4;&#x8a55;&#x8a3b;" description="&#x63d0;&#x4ea4;&#x4fee;&#x6539;&#x4e26;&#x95dc;&#x9589;&#x8a55;&#x8a3b;&#x63d0;&#x793a;&#x6846;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9HGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.sort" commandName="&#x6392;&#x5e8f;" category="_11XLxGgtEeaC2vj1JV_XDw">
+    <parameters xmi:id="_11g9HWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.sortParameter" name="&#x6392;&#x5e8f;&#x53c3;&#x6578;"/>
+  </commands>
+  <commands xmi:id="_11g9HmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.gotoCommentsView" commandName="&#x8df3;&#x81f3;&#x8a55;&#x8a3b;&#x9762;&#x677f;" description="&#x8df3;&#x81f3;&#x8a55;&#x8a3b;&#x9762;&#x677f;&#x7e7c;&#x7e8c;&#x7de8;&#x8f2f;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9H2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.theme.edit" commandName="&#x7de8;&#x8f2f;&#x98a8;&#x683c; [Pro]" description="&#x958b;&#x555f;&#x63d0;&#x793a;&#x6846;&#x7de8;&#x8f2f;&#x98a8;&#x683c;" category="_11XLxmgtEeaC2vj1JV_XDw">
+    <parameters xmi:id="_11g9IGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.resource.uri" name="&#x6a23;&#x5f0f; URI"/>
+  </commands>
+  <commands xmi:id="_11g9IWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.exportXMindResourceBundle" commandName="&#x532f;&#x51fa; XMind &#x8cc7;&#x6e90;&#x5305;" category="_11XLx2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9ImgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.file.print" commandName="&#x5217;&#x5370;" description="&#x5217;&#x5370;" category="_11XLxWgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9I2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.toggleDashboard" commandName="&#x5207;&#x63db;&#x65b0;&#x5efa;&#x6a94;&#x6848;&#x5c0e;&#x5f15;" description="&#x986f;&#x793a;/&#x96b1;&#x85cf; &#x65b0;&#x5efa;&#x6a94;&#x6848;&#x5c0e;&#x5f15;&#x4ecb;&#x9762;" category="_11XLxWgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9JGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.addMarker" commandName="&#x5feb;&#x901f;&#x52a0;&#x4e0a;&#x5716;&#x6a19;" description="&#x5feb;&#x901f;&#x52a0;&#x4e0a;&#x5716;&#x6a19;" category="_11XLxGgtEeaC2vj1JV_XDw">
+    <parameters xmi:id="_11g9JWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.mindmap.markerId" name="&#x5716;&#x6a19;" optional="false"/>
+  </commands>
+  <commands xmi:id="_11g9JmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.importWorkbook" commandName="&#x532f;&#x5165; XMind &#x5de5;&#x4f5c;&#x7c3f;" category="_11XLxWgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9J2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.editSelectedTheme" commandName="&#x7de8;&#x8f2f;&#x98a8;&#x683c; [Pro]" category="_11XLyGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9KGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.removeAllStyles" commandName="&#x79fb;&#x9664;&#x5168;&#x90e8;&#x6a23;&#x5f0f;" description="&#x79fb;&#x9664;&#x5168;&#x90e8;&#x6a23;&#x5f0f;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9KWgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.navigate.forwardHistory" commandName="&#x5728;&#x6b77;&#x7a0b;&#x4e2d;&#x5411;&#x524d;&#x79fb;&#x52d5;" description="&#x5728;&#x7de8;&#x8f2f;&#x5668;&#x5c0e;&#x89bd;&#x6b77;&#x7a0b;&#x4e2d;&#x5411;&#x524d;&#x79fb;&#x52d5;" category="_11XLwmgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9KmgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.window.spy" commandName="&#x663e;&#x793a;&#x8d21;&#x732e;&#x63d2;&#x4ef6;" description="&#x4e3a;&#x5f53;&#x524d;&#x9009;&#x5b9a;&#x7684;&#x5143;&#x7d20;&#x663e;&#x793a;&#x8d21;&#x732e;&#x4fe1;&#x606f;" category="_11XLx2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9K2gtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.help.helpSearch" commandName="&#x8aaa;&#x660e;&#x641c;&#x5c0b;" description="&#x958b;&#x555f;&#x8aaa;&#x660e;&#x641c;&#x5c0b;" category="_11XLy2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9LGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.style.paste" commandName="&#x8cbc;&#x4e0a;&#x6a23;&#x5f0f;" description="&#x8cbc;&#x4e0a;&#x6a23;&#x5f0f;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9LWgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.file.restartWorkbench" commandName="&#x91cd;&#x65b0;&#x555f;&#x52d5;" description="&#x91cd;&#x65b0;&#x542f;&#x52a8;&#x5de5;&#x4f5c;&#x53f0;" category="_11XLxWgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9LmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.moveDown" commandName="&#x4e0b;&#x79fb;" description="&#x4e3b;&#x984c;&#x5411;&#x4e0b;&#x79fb;&#x52d5;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9L2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.editNotes" commandName="&#x7de8;&#x8f2f;&#x5099;&#x8a3b;" description="&#x7de8;&#x8f2f;&#x4e3b;&#x984c;&#x7684;&#x5099;&#x8a3b;&#x5167;&#x5bb9;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9MGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.duplicate" commandName="&#x91cd;&#x88fd;&#x4e3b;&#x984c;" description="&#x91cd;&#x88fd;&#x4e3b;&#x984c;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9MWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.style.copy" commandName="&#x8907;&#x88fd;&#x6a23;&#x5f0f;" description="&#x8907;&#x88fd;&#x6a23;&#x5f0f;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9MmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.security" commandName="&#x4f7f;&#x7528;&#x5bc6;&#x78bc;&#x9396;&#x6a94;&#x4fdd;&#x8b77;&#x5de5;&#x4f5c;&#x7c3f;&#x6a94;&#x6848;" description="&#x52a0;&#x8a2d;&#x5bc6;&#x78bc;&#x4fdd;&#x8b77; XMind &#x6a94;&#x6848;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9M2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.reduceFileSize" commandName="&#x7e2e;&#x6e1b;&#x6a94;&#x6848;&#x5927;&#x5c0f;" category="_11XLxWgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9NGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.text.rightAlign" commandName="&#x9760;&#x53f3;&#x5c0d;&#x9f4a;" description="&#x6587;&#x5b57;&#x9760;&#x53f3;&#x5c0d;&#x9f4a;" category="_11XLymgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9NWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.editLabel" commandName="&#x7de8;&#x8f2f;&#x6a19;&#x7c64;" description="&#x589e;&#x52a0;&#x6216;&#x79fb;&#x9664;&#x4e3b;&#x984c;&#x7684;&#x6a19;&#x7c64;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9NmgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.window.showViewMenu" commandName="&#x986f;&#x793a;&#x8996;&#x5716;&#x529f;&#x80fd;&#x8868;" description="&#x986f;&#x793a;&#x8996;&#x5716;&#x529f;&#x80fd;&#x8868;" category="_11XLx2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9N2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.extractStyle" commandName="&#x5b58;&#x7528;&#x6a23;&#x5f0f; [Pro]" description="&#x5b58;&#x7528;&#x98a8;&#x683c;&#x4f86;&#x81ea;&#x76ee;&#x524d;&#x7de8;&#x8f2f;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9OGgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.navigate.backwardHistory" commandName="&#x5728;&#x6b77;&#x7a0b;&#x4e2d;&#x5411;&#x5f8c;&#x79fb;&#x52d5;" description="&#x5728;&#x7de8;&#x8f2f;&#x5668;&#x5c0e;&#x89bd;&#x6b77;&#x7a0b;&#x4e2d;&#x5411;&#x5f8c;&#x79fb;&#x52d5;" category="_11XLwmgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9OWgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.navigate.previousTab" commandName="&#x524d;&#x4e00;&#x4e2a;&#x6807;&#x7b7e;" description="&#x5207;&#x6362;&#x5230;&#x524d;&#x4e00;&#x4e2a;&#x6807;&#x7b7e;" category="_11XLwmgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9OmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.filter.showAll" commandName="&#x986f;&#x793a;&#x5168;&#x90e8; [Pro]" category="_11XLyGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9O2gtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.file.refresh" commandName="&#x91cd;&#x65b0;&#x6574;&#x7406;" description="&#x91cd;&#x65b0;&#x6574;&#x7406;&#x6240;&#x9078;&#x9805;&#x76ee;" category="_11XLxWgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9PGgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.window.closeAllPerspectives" commandName="&#x95dc;&#x9589;&#x6240;&#x6709;&#x8996;&#x666f;" description="&#x95dc;&#x9589;&#x6240;&#x6709;&#x958b;&#x555f;&#x7684;&#x8996;&#x666f;" category="_11XLx2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9PWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.collapse" commandName="&#x7e2e;&#x5408;" description="&#x7e2e;&#x5408;&#x4e3b;&#x984c;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9PmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.clearWorkbookHistory" commandName="&#x6e05;&#x9664;&#x5de5;&#x4f5c;&#x7c3f;&#x6b77;&#x53f2;&#x8a18;&#x9304;" description="&#x6e05;&#x9664;&#x6700;&#x8fd1;&#x4f7f;&#x7528;&#x5de5;&#x4f5c;&#x7c3f;&#x6a94;&#x6848;&#x8a18;&#x9304;" category="_11XLxWgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9P2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.selectChildren" commandName="&#x9078;&#x64c7;&#x4e0b;&#x5c64;&#x4e3b;&#x984c;" description="&#x9078;&#x64c7;&#x4e0b;&#x4e00;&#x968e;&#x5c64;&#x5168;&#x90e8;&#x4e3b;&#x984c;" category="_11XLyWgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9QGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.newFromTemplate" commandName="&#x9078;&#x7528;&#x7bc4;&#x672c;&#x65b0;&#x5efa;&#x6a94;&#x6848;" description="&#x9078;&#x7528;&#x7bc4;&#x672c;&#x65b0;&#x5efa;&#x6a94;&#x6848;" category="_11XLx2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9QWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.takeAudioNotes" commandName="&#x9304;&#x97f3;" description="&#x5728;&#x6b64;&#x4e3b;&#x984c;&#x9032;&#x884c;&#x9304;&#x97f3;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9QmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.text.leftAlign" commandName="&#x9760;&#x5de6;&#x5c0d;&#x9f4a;" description="&#x6587;&#x5b57;&#x9760;&#x5de6;&#x5c0d;&#x9f4a;" category="_11XLymgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9Q2gtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.navigate.expandAll" commandName="&#x5168;&#x90e8;&#x5c55;&#x958b;" description="&#x5c55;&#x5f00;&#x5f53;&#x524d;&#x6811;" category="_11XLwmgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9RGgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.file.saveAll" commandName="&#x5168;&#x90e8;&#x5132;&#x5b58;" description="&#x5132;&#x5b58;&#x6240;&#x6709;&#x73fe;&#x884c;&#x5167;&#x5bb9;" category="_11XLxWgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9RWgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.window.showKeyAssist" commandName="&#x986f;&#x793a;&#x6309;&#x9375;&#x8f14;&#x52a9;" description="&#x986f;&#x793a;&#x6309;&#x9375;&#x8f14;&#x52a9;&#x5c0d;&#x8a71;&#x6846;" category="_11XLx2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9RmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.outline.print" commandName="&#x5217;&#x5370;&#x7db1;&#x8981;" description="&#x5217;&#x5370;&#x5fc3;&#x667a;&#x5716;&#x7db1;&#x8981;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9R2gtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.file.closeOthers" commandName="&#x95dc;&#x9589;&#x5176;&#x4ed6;" description="&#x95dc;&#x9589;&#x6240;&#x6709;&#x7de8;&#x8f2f;&#x5668; (&#x4e0d;&#x5305;&#x542b;&#x6b63;&#x5728;&#x4f5c;&#x7528;&#x4e2d;&#x7684;)" category="_11XLxWgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9SGgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.file.save" commandName="&#x5132;&#x5b58;" description="&#x5132;&#x5b58;&#x73fe;&#x884c;&#x5167;&#x5bb9;" category="_11XLxWgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9SWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.insertAttachment" commandName="&#x63d2;&#x5165;&#x9644;&#x4ef6;" description="&#x63d2;&#x5165;&#x5916;&#x90e8;&#x6a94;&#x6848;&#x4f5c;&#x70ba;&#x9644;&#x4ef6;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9SmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.copySheet" commandName="&#x8907;&#x88fd;&#x9801;&#x9762;" description="&#x8907;&#x88fd;&#x9801;&#x9762;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9S2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.sharing.localnetwork.saveRemoteSharedMap" commandName="&#x5132;&#x5b58;&#x9060;&#x7aef;&#x7528;&#x6236;&#x6240;&#x5206;&#x4eab;&#x7684;&#x5fc3;&#x667a;&#x5716;" description="&#x5132;&#x5b58;&#x9060;&#x7aef;&#x7528;&#x6236;&#x6240;&#x5206;&#x4eab;&#x7684;&#x5fc3;&#x667a;&#x5716;" category="_11XLyGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9TGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.style.rename" commandName="&#x91cd;&#x65b0;&#x547d;&#x540d;&#x2026;" description="&#x91cd;&#x65b0;&#x547d;&#x540d;&#x6240;&#x9078;&#x6a23;&#x5f0f;" category="_11XLxGgtEeaC2vj1JV_XDw">
+    <parameters xmi:id="_11g9TWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.resource.uri" name="&#x6a23;&#x5f0f; URI"/>
+  </commands>
+  <commands xmi:id="_11g9TmgtEeaC2vj1JV_XDw" elementId="net.xmind.ui.command.checkForUpdates" commandName="&#x6aa2;&#x67e5;&#x8edf;&#x9ad4;&#x66f4;&#x65b0;" description="&#x6aa2;&#x67e5; XMind &#x8edf;&#x9ad4;&#x6709;&#x7121;&#x66f4;&#x65b0;" category="_11XLxmgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9T2gtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.window.previousEditor" commandName="&#x4e0a;&#x4e00;&#x500b;&#x7de8;&#x8f2f;&#x5668;" description="&#x5207;&#x63db;&#x81f3;&#x4e0a;&#x4e00;&#x500b;&#x7de8;&#x8f2f;&#x5668;" category="_11XLx2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9UGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.drillDown" commandName="&#x4e0b;&#x947d;&#x4e00;&#x5c64;" description="&#x4e0b;&#x947d;&#x4e00;&#x5c64;&#x67e5;&#x770b;&#x8a73;&#x7d30;&#x5167;&#x5bb9;" category="_11XLyWgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9UWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.saveSheetAs" commandName="&#x53e6;&#x5b58;&#x9801;&#x9762;&#x2026;" category="_11XLxWgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9UmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.editComments" commandName="&#x7de8;&#x8f2f;&#x8a55;&#x8a3b;" description="&#x7de8;&#x8f2f;&#x4e3b;&#x984c;&#x7684;&#x8a55;&#x8a3b;&#x5167;&#x5bb9;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9U2gtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.edit.findReplace" commandName="&#x5c0b;&#x627e;&#x4e26;&#x53d6;&#x4ee3;" description="&#x5c0b;&#x627e;&#x4e26;&#x53d6;&#x4ee3;&#x6587;&#x5b57;" category="_11XLw2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9VGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.moveLeft" commandName="&#x5de6;&#x79fb;" description="&#x4e3b;&#x984c;&#x5411;&#x5de6;&#x79fb;&#x52d5;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9VWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.gantt.command.exportPdf" commandName="&#x532f;&#x51fa; PDF &#x6587;&#x4ef6;" description="&#x532f;&#x51fa;&#x7518;&#x7279;&#x5716;&#x6210; PDF &#x6a94;&#x6848;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9VmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.style.reset" commandName="&#x91cd;&#x8a2d;&#x6a23;&#x5f0f;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9V2gtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.help.tipsAndTricksAction" commandName="&#x8981;&#x8a23;&#x548c;&#x6280;&#x5de7;" description="&#x958b;&#x555f;&#x8981;&#x8a23;&#x548c;&#x6280;&#x5de7;&#x8aaa;&#x660e;&#x9801;&#x9762;" category="_11XLy2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9WGgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.window.nextEditor" commandName="&#x4e0b;&#x4e00;&#x500b;&#x7de8;&#x8f2f;&#x5668;" description="&#x5207;&#x63db;&#x81f3;&#x4e0b;&#x4e00;&#x500b;&#x7de8;&#x8f2f;&#x5668;" category="_11XLx2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9WWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.openHyperlink" commandName="&#x958b;&#x555f;&#x8d85;&#x9023;&#x7d50;" description="&#x958b;&#x555f;&#x8d85;&#x9023;&#x7d50;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9WmgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.help.helpContents" commandName="&#x8aaa;&#x660e;&#x5167;&#x5bb9;" description="&#x958b;&#x555f;&#x8aaa;&#x660e;&#x5167;&#x5bb9;" category="_11XLy2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9W2gtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.edit.delete" commandName="&#x522a;&#x9664;" description="&#x522a;&#x9664;&#x9078;&#x64c7;" category="_11XLw2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9XGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.sharing.localnetwork.shareOpenedMap" commandName="&#x672c;&#x5730;&#x7db2;&#x8def;&#x5206;&#x4eab;" description="&#x5728;&#x672c;&#x5730;&#x5340;&#x57df;&#x7db2;&#x8def;&#x5206;&#x4eab;&#x76ee;&#x524d;&#x958b;&#x555f;&#x7684;&#x5fc3;&#x667a;&#x5716;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9XWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.deleteSheet" commandName="&#x522a;&#x9664;&#x9801;&#x9762;" description="&#x522a;&#x9664;&#x9801;&#x9762;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9XmgtEeaC2vj1JV_XDw" elementId="net.xmind.ui.command.signOut" commandName="&#x767b;&#x51fa; XMind.net" description="&#x767b;&#x51fa; XMind.net" category="_11XLxmgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9X2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.finish" commandName="&#x7d50;&#x675f;" description="&#x7d50;&#x675f;&#x76ee;&#x524d;&#x5de5;&#x4f5c;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9YGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.insertImage" commandName="&#x63d2;&#x5165;&#x5716;&#x7247;" description="&#x63d2;&#x5165;&#x5716;&#x7247;&#x81f3;&#x4e3b;&#x984c;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9YWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.outline.export" commandName="&#x532f;&#x51fa;&#x7db1;&#x8981;" description="&#x532f;&#x51fa;&#x5fc3;&#x667a;&#x5716;&#x7db1;&#x8981;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9YmgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.file.exit" commandName="&#x7d50;&#x675f;" description="&#x7d50;&#x675f;&#x61c9;&#x7528;&#x7a0b;&#x5f0f;" category="_11XLxWgtEeaC2vj1JV_XDw">
+    <parameters xmi:id="_11g9Y2gtEeaC2vj1JV_XDw" elementId="mayPrompt" name="may prompt"/>
+  </commands>
+  <commands xmi:id="_11g9ZGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.newSheetFromTemplate" commandName="&#x65b0;&#x5efa;&#x9801;&#x9762;&#x5957;&#x7528;&#x7bc4;&#x672c;" description="&#x9078;&#x7528;&#x7bc4;&#x672c;&#x5728;&#x76ee;&#x524d;&#x5de5;&#x4f5c;&#x7c3f;&#x65b0;&#x5efa;&#x9801;&#x9762;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9ZWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.saveImageAs" commandName="&#x53e6;&#x5b58;&#x5716;&#x7247;&#x6a94;&#x6848;&#x2026;" description="&#x53e6;&#x5b58;&#x5716;&#x7247;&#x6a94;&#x6848;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9ZmgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.edit.addBookmark" commandName="&#x65b0;&#x589e;&#x66f8;&#x7c64;" description="&#x65b0;&#x589e;&#x66f8;&#x7c64;" category="_11XLw2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9Z2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.showDashboard" commandName="&#x986f;&#x793a;&#x65b0;&#x5efa;&#x6a94;&#x6848;&#x5c0e;&#x5f15;&#x4ecb;&#x9762;" description="&#x986f;&#x793a;&#x65b0;&#x5efa;&#x6a94;&#x6848;&#x5c0e;&#x5f15;&#x4ecb;&#x9762;" category="_11XLxWgtEeaC2vj1JV_XDw">
+    <parameters xmi:id="_11g9aGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.showDashboard.pageId" name="&#x9996;&#x9801; ID"/>
+  </commands>
+  <commands xmi:id="_11g9aWgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.window.previousView" commandName="&#x4e0a;&#x4e00;&#x500b;&#x8996;&#x5716;" description="&#x5207;&#x63db;&#x81f3;&#x4e0a;&#x4e00;&#x500b;&#x8996;&#x5716;" category="_11XLx2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9amgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.style.delete" commandName="&#x522a;&#x9664;" description="&#x522a;&#x9664;&#x6240;&#x9078;&#x6a23;&#x5f0f;" category="_11XLw2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9a2gtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.file.revert" commandName="&#x56de;&#x5fa9;" description="&#x56de;&#x5fa9;&#x81f3;&#x4e0a;&#x6b21;&#x5132;&#x5b58;&#x7684;&#x72c0;&#x614b;" category="_11XLxWgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9bGgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.edit.selectAll" commandName="&#x5168;&#x9078;" description="&#x5168;&#x9078;" category="_11XLw2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9bWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.insertImageFromWeb" commandName="&#x63d2;&#x5165;&#x5716;&#x7247;&#x4f86;&#x81ea;&#x7db2;&#x8def;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9bmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.sharing.localnetwork.sendSharingMessage" commandName="&#x50b3;&#x9001;&#x5fc3;&#x667a;&#x5716;&#x5206;&#x4eab;&#x8a0a;&#x606f;" description="&#x91dd;&#x5c0d;&#x5206;&#x4eab;&#x7684;&#x5fc3;&#x667a;&#x5716;&#x50b3;&#x9001;&#x8a0a;&#x606f;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9b2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.actualSize" commandName="&#x5be6;&#x969b;&#x5927;&#x5c0f;" description="&#x7e2e;&#x653e;&#x81f3;&#x5be6;&#x969b;&#x5927;&#x5c0f;" category="_11XLyWgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9cGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.hyperlink" commandName="&#x4fee;&#x6539;&#x8d85;&#x9023;&#x7d50;" description="&#x4fee;&#x6539;&#x8d85;&#x9023;&#x7d50;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9cWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.evernote.save" commandName="&#x5b58;&#x5165; Evernote&#x2026;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9cmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.insertSheetFrom" commandName="&#x65b0;&#x5efa;&#x9801;&#x9762;&#x4f86;&#x81ea;" description="&#x65b0;&#x5efa;&#x9801;&#x9762;&#x7528;&#x6b64;&#x4e3b;&#x984c;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9c2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.gantt.command.export" commandName="&#x532f;&#x51fa;" description="&#x532f;&#x51fa;&#x7518;&#x7279;&#x5716;&#x6210; PNG &#x5716;&#x6a94;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9dGgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.file.import" commandName="&#x532f;&#x5165;" description="&#x532f;&#x5165;" category="_11XLxWgtEeaC2vj1JV_XDw">
+    <parameters xmi:id="_11g9dWgtEeaC2vj1JV_XDw" elementId="importWizardId" name="&#x532f;&#x5165;&#x7cbe;&#x9748;"/>
+  </commands>
+  <commands xmi:id="_11g9dmgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.window.switchToEditor" commandName="&#x5207;&#x63db;&#x81f3;&#x7de8;&#x8f2f;&#x5668;" description="&#x5207;&#x63db;&#x81f3;&#x7de8;&#x8f2f;&#x5668;" category="_11XLx2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9d2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.properties.reset" commandName="&#x91cd;&#x8a2d;&#x56de;&#x5fa9;&#x9810;&#x8a2d;" description="&#x91cd;&#x8a2d;&#x6240;&#x9078;&#x9805;&#x76ee;&#x5c6c;&#x6027;&#x56de;&#x5fa9;&#x6210;&#x9810;&#x8a2d;&#x503c;" category="_11XLw2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9eGgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.help.dynamicHelp" commandName="&#x52d5;&#x614b;&#x8aaa;&#x660e;" description="&#x958b;&#x555f;&#x52d5;&#x614b;&#x8aaa;&#x660e;" category="_11XLy2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9eWgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.navigate.nextSubTab" commandName="&#x4e0b;&#x4e00;&#x4e2a;&#x5b50;&#x6807;&#x7b7e;" description="&#x5207;&#x6362;&#x5230;&#x4e0b;&#x4e00;&#x5b50;&#x6807;&#x7b7e;" category="_11XLwmgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9emgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.collapseAll" commandName="&#x7e2e;&#x5408;&#x5168;&#x90e8;" description="&#x7e2e;&#x5408;&#x4e3b;&#x984c;&#x53ca;&#x5176;&#x6240;&#x6709;&#x5206;&#x652f;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9e2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.selectBrothers" commandName="&#x9078;&#x64c7;&#x540c;&#x5c64;&#x4e3b;&#x984c;" description="&#x9078;&#x64c7;&#x540c;&#x4e00;&#x968e;&#x5c64;&#x5168;&#x90e8;&#x4e3b;&#x984c;" category="_11XLyWgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9fGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.text.italic" commandName="&#x659c;&#x9ad4;" description="&#x5207;&#x63db;&#x659c;&#x9ad4;&#x5b57;&#x578b;" category="_11XLymgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9fWgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.file.closePart" commandName="&#x5173;&#x95ed;&#x90e8;&#x5206;" description="&#x5173;&#x95ed;&#x6d3b;&#x52a8;&#x7684;&#x5de5;&#x4f5c;&#x53f0;&#x90e8;&#x5206;" category="_11XLx2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9fmgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.help.installationDialog" commandName="&#x5b89;&#x88dd;&#x8a0a;&#x606f;" description="&#x6253;&#x5f00;&#x5b89;&#x88c5;&#x5bf9;&#x8bdd;&#x6846;" category="_11XLy2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9f2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.resetPosition" commandName="&#x91cd;&#x65b0;&#x6392;&#x5217;&#x4f4d;&#x7f6e;" description="&#x91cd;&#x65b0;&#x6392;&#x5217;&#x4f4d;&#x7f6e;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9gGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.text.bold" commandName="&#x7c97;&#x9ad4;" description="&#x5207;&#x63db;&#x5b57;&#x578b;&#x7c97;&#x9ad4;&#x6a23;&#x5f0f;" category="_11XLymgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9gWgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.navigate.back" commandName="&#x4e0a;&#x4e00;&#x9801;" description="&#x5411;&#x5f8c;&#x5c0e;&#x89bd;" category="_11XLwmgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9gmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.sharing.localnetwork.shareLibraryMap" commandName="&#x5206;&#x4eab;&#x65bc;&#x672c;&#x5730;&#x7db2;&#x8def;" description="&#x8b8a;&#x66f4;&#x81ea;&#x5df1;&#x5fc3;&#x667a;&#x5716;&#x5206;&#x4eab;&#x5c0d;&#x65b9;&#x7684;&#x5141;&#x8a31;&#x6b0a;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9g2gtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.part.previousPage" commandName="&#x4e0a;&#x4e00;&#x9801;" description="&#x5207;&#x6362;&#x81f3;&#x4e0a;&#x4e00;&#x4e2a;&#x9875;&#x9762;" category="_11XLwmgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9hGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.revertToRevision" commandName="&#x9084;&#x539f;&#x4fee;&#x8a02;&#x7248;&#x672c;" description="&#x9084;&#x539f;&#x6240;&#x9078;&#x7684;&#x4fee;&#x8a02;&#x7248;&#x672c;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9hWgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.navigate.next" commandName="&#x4e0b;&#x4e00;&#x500b;" description="&#x5c0e;&#x89bd;&#x81f3;&#x4e0b;&#x4e00;&#x500b;&#x9805;&#x76ee;" category="_11XLwmgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9hmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.tile" commandName="&#x5e73;&#x92ea;&#x6392;&#x5217;" description="&#x5728;&#x9801;&#x9762;&#x4e0a;&#x5e73;&#x92ea;&#x6392;&#x5217;&#x5404;&#x9805;&#x5143;&#x4ef6;&#x4ee5;&#x907f;&#x514d;&#x91cd;&#x758a;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9h2gtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.window.closePerspective" commandName="&#x95dc;&#x9589;&#x8996;&#x666f;" description="&#x95dc;&#x9589;&#x73fe;&#x884c;&#x8996;&#x666f;" category="_11XLx2gtEeaC2vj1JV_XDw">
+    <parameters xmi:id="_11g9iGgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.window.closePerspective.perspectiveId" name="&#x900f;&#x89c6;&#x56fe;&#x6807;&#x8bc6;"/>
+  </commands>
+  <commands xmi:id="_11g9iWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.createSummary" commandName="&#x52a0;&#x4e0a;&#x62ec;&#x5f27;&#x7e3d;&#x7d50;" description="&#x52a0;&#x4e0a;&#x62ec;&#x5f27;&#x7e3d;&#x7d50;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9imgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.zoomOut" commandName="&#x7e2e;&#x5c0f;&#x756b;&#x9762;" description="&#x7e2e;&#x5c0f;&#x756b;&#x9762;" category="_11XLyWgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9i2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.insertParentTopic" commandName="&#x63d2;&#x5165;&#x4e0a;&#x5c64;&#x4e3b;&#x984c;" description="&#x63d2;&#x5165;&#x4e0a;&#x5c64;&#x4e3b;&#x984c;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9jGgtEeaC2vj1JV_XDw" elementId="net.xmind.ui.command.feedback" commandName="&#x56de;&#x5831;&#x81f3; XMind.net" description="&#x56de;&#x5831;&#x8a0a;&#x606f;&#x5bc4;&#x81f3; XMind &#x5718;&#x968a;" category="_11XLxmgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9jWgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.help.aboutAction" commandName="&#x95dc;&#x65bc;" description="&#x958b;&#x555f;&#x95dc;&#x65bc;&#x5c0d;&#x8a71;&#x6846;" category="_11XLy2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9jmgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.file.closeAllSaved" commandName="&#x95dc;&#x9589;&#x6240;&#x6709;&#x5132;&#x5b58;" description="&#x5173;&#x95ed;&#x6240;&#x6709;&#x5df2;&#x4fdd;&#x5b58;&#x7684;&#x7f16;&#x8f91;&#x5668;" category="_11XLxWgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9j2gtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.edit.redo" commandName="&#x91cd;&#x505a;" description="&#x91cd;&#x505a;&#x524d;&#x6b21;&#x4f5c;&#x696d;" category="_11XLw2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9kGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.gotoNotesView" commandName="&#x8df3;&#x81f3;&#x5099;&#x8a3b;&#x9762;&#x677f;" description="&#x8df3;&#x81f3;&#x5099;&#x8a3b;&#x9762;&#x677f;&#x7e7c;&#x7e8c;&#x7de8;&#x8f2f;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9kWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.pasteSheet" commandName="&#x8cbc;&#x4e0a;&#x9801;&#x9762;" description="&#x8cbc;&#x4e0a;&#x9801;&#x9762;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9kmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.checkSpelling.allEditors" commandName="&#x62fc;&#x5b57;&#x6aa2;&#x67e5;(&#x5168;&#x90e8;&#x7de8;&#x8f2f;&#x5668;)" description="&#x5168;&#x90e8;&#x7de8;&#x8f2f;&#x5668;&#x6aa2;&#x67e5;&#x62da;&#x5b57;&#x932f;&#x8aa4;&#x3002;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9k2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.saveAttachmentAs" commandName="&#x53e6;&#x5b58;&#x9644;&#x4ef6;&#x6a94;&#x6848;&#x2026;" description="&#x53e6;&#x5b58;&#x9644;&#x4ef6;&#x6a94;&#x6848;&#x65bc;&#x96fb;&#x8166;&#x4e2d;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9lGgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.newWizard" commandName="&#x65b0;&#x5efa;" description="&#x958b;&#x555f;&#x65b0;&#x5efa;&#x9805;&#x76ee;&#x7cbe;&#x9748;" category="_11XLxWgtEeaC2vj1JV_XDw">
+    <parameters xmi:id="_11g9lWgtEeaC2vj1JV_XDw" elementId="newWizardId" name="&#x65b0;&#x5efa;&#x7cbe;&#x9748;"/>
+  </commands>
+  <commands xmi:id="_11g9lmgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.window.newWindow" commandName="&#x958b;&#x65b0;&#x8996;&#x7a97;" description="&#x958b;&#x555f;&#x53e6;&#x4e00;&#x500b;&#x8996;&#x7a97;" category="_11XLx2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9l2gtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.file.close" commandName="&#x95dc;&#x9589;" description="&#x95dc;&#x9589;&#x4f5c;&#x7528;&#x4e2d;&#x7684;&#x7de8;&#x8f2f;&#x5668;" category="_11XLxWgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9mGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.gantt.command.exportToProject" commandName="&#x532f;&#x51fa;&#x6210; Project" description="&#x532f;&#x51fa;&#x7518;&#x7279;&#x5716;&#x6210; Microsoft Project &#x6a94;&#x6848;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9mWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.newSheet" commandName="&#x65b0;&#x5efa;&#x9801;&#x9762;" description="&#x65b0;&#x5efa;&#x9801;&#x9762;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9mmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.text.strikeout" commandName="&#x522a;&#x9664;&#x7dda;" description="&#x5207;&#x63db;&#x522a;&#x9664;&#x7dda;&#x5b57;&#x578b;" category="_11XLymgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9m2gtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.window.customizePerspective" commandName="&#x81ea;&#x8a02;&#x8996;&#x666f;" description="&#x81ea;&#x8a02;&#x73fe;&#x884c;&#x8996;&#x666f;" category="_11XLx2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9nGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.text.indent" commandName="&#x7e2e;&#x6392;&#x79fb;&#x4f4d;" description="&#x6bb5;&#x843d;&#x9996;&#x5217;&#x7e2e;&#x6392;&#x79fb;&#x4f4d;" category="_11XLymgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9nWgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.help.quickStartAction" commandName="&#x6b61;&#x8fce;&#x4f7f;&#x7528;" description="&#x986f;&#x793a;&#x9069;&#x5408;&#x5165;&#x9580;&#x4f7f;&#x7528;&#x8005;&#x7684;&#x8aaa;&#x660e;" category="_11XLy2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9nmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.previewRevision" commandName="&#x9810;&#x89bd;&#x4fee;&#x8a02;&#x7248;&#x672c;" description="&#x9810;&#x89bd;&#x6b64;&#x4fee;&#x8a02;&#x7248;&#x672c;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9n2gtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.navigate.previousSubTab" commandName="&#x524d;&#x4e00;&#x5b50;&#x6807;&#x7b7e;" description="&#x5207;&#x6362;&#x5230;&#x524d;&#x5b50;&#x6807;&#x7b7e;" category="_11XLwmgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9oGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.text.font" commandName="&#x5b57;&#x578b;" description="&#x8b8a;&#x66f4;&#x5b57;&#x578b;" category="_11XLymgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9oWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.importXMindResourceBundle" commandName="&#x532f;&#x5165; XMind &#x8cc7;&#x6e90;&#x5305;" category="_11XLx2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9omgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.window.hideShowEditors" commandName="&#x5207;&#x6362;&#x7f16;&#x8f91;&#x533a;&#x53ef;&#x89c1;&#x6027;" description="&#x5207;&#x6362;&#x7f16;&#x8f91;&#x533a;&#x57df;&#x7684;&#x53ef;&#x89c1;&#x6027;" category="_11XLx2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9o2gtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.navigate.showIn" commandName="&#x986f;&#x793a;&#x4f4d;&#x7f6e;" category="_11XLwmgtEeaC2vj1JV_XDw">
+    <parameters xmi:id="_11g9pGgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.navigate.showIn.targetId" name="&#x663e;&#x793a;&#x5230;&#x76ee;&#x6807;id" optional="false"/>
+  </commands>
+  <commands xmi:id="_11g9pWgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.help.displayHelp" commandName="&#x986f;&#x793a;&#x8aaa;&#x660e;" description="&#x986f;&#x793a;&#x8aaa;&#x660e;&#x4e3b;&#x984c;" category="_11XLy2gtEeaC2vj1JV_XDw">
+    <parameters xmi:id="_11g9pmgtEeaC2vj1JV_XDw" elementId="href" name="&#x8aaa;&#x660e;&#x4e3b;&#x984c; href"/>
+  </commands>
+  <commands xmi:id="_11g9p2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.searchWorkbooks" commandName="&#x641c;&#x5c0b;&#x5de5;&#x4f5c;&#x7c3f;" description="&#x641c;&#x5c0b;&#x5df2;&#x958b;&#x555f;&#x7684;&#x5de5;&#x4f5c;&#x7c3f;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9qGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.extend" commandName="&#x5c55;&#x958b;" description="&#x5c55;&#x958b;&#x4e3b;&#x984c;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9qWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.createRelationship" commandName="&#x52a0;&#x4e0a;&#x95dc;&#x9023;&#x7dda;" description="&#x52a0;&#x4e0a;&#x95dc;&#x9023;&#x7dda;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9qmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.moveRight" commandName="&#x53f3;&#x79fb;" description="&#x4e3b;&#x984c;&#x5411;&#x53f3;&#x79fb;&#x52d5;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9q2gtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.window.showContextMenu" commandName="&#x663e;&#x793a;&#x4e0a;&#x4e0b;&#x6587;&#x83dc;&#x5355;" description="&#x663e;&#x793a;&#x4e0a;&#x4e0b;&#x6587;&#x83dc;&#x5355;" category="_11XLx2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9rGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.startPresentation" commandName="&#x958b;&#x59cb;&#x7c21;&#x5831;&#x6f14;&#x793a;" description="&#x958b;&#x59cb;&#x5fc3;&#x667a;&#x5716;&#x7c21;&#x5831;&#x6f14;&#x793a;" category="_11XLyWgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9rWgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.navigate.forward" commandName="&#x4e0b;&#x4e00;&#x9801;" description="&#x5411;&#x524d;&#x5c0e;&#x89bd;" category="_11XLwmgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9rmgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.removeMarkerFromAllTopics" commandName="&#x79fb;&#x9664;&#x5168;&#x90e8;&#x4e3b;&#x984c;&#x7684;&#x5716;&#x6a19;" description="&#x79fb;&#x9664;&#x5168;&#x90e8;&#x4e3b;&#x984c;&#x7684;&#x5716;&#x6a19;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9r2gtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.window.nextPerspective" commandName="&#x4e0b;&#x4e00;&#x500b;&#x8996;&#x666f;" description="&#x5207;&#x63db;&#x81f3;&#x4e0b;&#x4e00;&#x500b;&#x8996;&#x666f;" category="_11XLx2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9sGgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.ToggleCoolbarAction" commandName="&#x5207;&#x6362;&#x5de5;&#x5177;&#x680f;&#x53ef;&#x89c1;&#x6027;" description="&#x5207;&#x6362;&#x5de5;&#x5177;&#x680f;&#x53ef;&#x89c1;&#x6027;" category="_11XLx2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9sWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.newWorkbook" commandName="&#x65b0;&#x5efa;&#x5de5;&#x4f5c;&#x7c3f;" description="&#x65b0;&#x5efa;&#x5de5;&#x4f5c;&#x7c3f;" category="_11XLx2gtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9smgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.gantt.command.print" commandName="&#x5217;&#x5370;" description="&#x5217;&#x5370;&#x7518;&#x7279;&#x5716;&#x6210; PDF &#x6a94;&#x6848;" category="_11XLxGgtEeaC2vj1JV_XDw"/>
+  <commands xmi:id="_11g9s2gtEeaC2vj1JV_XDw" elementId="org.xmind.ui.command.sharing.localnetwork.arrangeMaps" commandName="&#x66f4;&#x6539;&#x5fc3;&#x667a;&#x5716;&#x6392;&#x5217;&#x4f4d;&#x7f6e;" description="&#x8b8a;&#x66f4;&#x5fc3;&#x667a;&#x5716;&#x6392;&#x5217;&#x4f4d;&#x7f6e;" category="_11XLyGgtEeaC2vj1JV_XDw">
+    <parameters xmi:id="_11g9tGgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.commands.radioStateParameter" name="&#x5fc3;&#x667a;&#x5716;&#x6392;&#x5217;&#x4f4d;&#x7f6e;" optional="false"/>
+  </commands>
+  <addons xmi:id="_107G8GgtEeaC2vj1JV_XDw" elementId="org.eclipse.e4.core.commands.service" contributorURI="platform:/plugin/org.xmind.cathy" contributionURI="bundleclass://org.eclipse.e4.core.commands/org.eclipse.e4.core.commands.CommandServiceAddon"/>
+  <addons xmi:id="_107G8WgtEeaC2vj1JV_XDw" elementId="org.eclipse.e4.ui.contexts.service" contributorURI="platform:/plugin/org.xmind.cathy" contributionURI="bundleclass://org.eclipse.e4.ui.services/org.eclipse.e4.ui.services.ContextServiceAddon"/>
+  <addons xmi:id="_107G8mgtEeaC2vj1JV_XDw" elementId="org.eclipse.e4.ui.bindings.service" contributorURI="platform:/plugin/org.xmind.cathy" contributionURI="bundleclass://org.eclipse.e4.ui.bindings/org.eclipse.e4.ui.bindings.BindingServiceAddon"/>
+  <addons xmi:id="_107G82gtEeaC2vj1JV_XDw" elementId="org.eclipse.e4.ui.workbench.commands.model" contributorURI="platform:/plugin/org.xmind.cathy" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.CommandProcessingAddon"/>
+  <addons xmi:id="_107G9GgtEeaC2vj1JV_XDw" elementId="org.eclipse.e4.ui.workbench.contexts.model" contributorURI="platform:/plugin/org.xmind.cathy" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.ContextProcessingAddon"/>
+  <addons xmi:id="_107G9WgtEeaC2vj1JV_XDw" elementId="org.eclipse.e4.ui.workbench.bindings.model" contributorURI="platform:/plugin/org.xmind.cathy" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.swt/org.eclipse.e4.ui.workbench.swt.util.BindingProcessingAddon"/>
+  <addons xmi:id="_107G9mgtEeaC2vj1JV_XDw" elementId="org.eclipse.e4.ui.workbench.handler.model" contributorURI="platform:/plugin/org.xmind.cathy" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
+  <addons xmi:id="_107G92gtEeaC2vj1JV_XDw" elementId="DnD Addon" contributorURI="platform:/plugin/org.xmind.cathy" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.dndaddon.DnDAddon"/>
+  <addons xmi:id="_107G-GgtEeaC2vj1JV_XDw" elementId="MinMax Addon" contributorURI="platform:/plugin/org.xmind.cathy" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
+  <addons xmi:id="_107G-WgtEeaC2vj1JV_XDw" elementId="org.xmind.cathy.addon.dashboardAutomation" contributorURI="platform:/plugin/org.xmind.cathy" contributionURI="bundleclass://org.xmind.cathy/org.xmind.cathy.internal.dashboard.DashboardAutomationAddon"/>
+  <addons xmi:id="_107G-mgtEeaC2vj1JV_XDw" elementId="org.xmind.cathy.addon.commandLabelUpdater" contributorURI="platform:/plugin/org.xmind.cathy" contributionURI="bundleclass://org.xmind.cathy/org.xmind.cathy.internal.CommandLabelUpdater"/>
+  <addons xmi:id="_107G-2gtEeaC2vj1JV_XDw" elementId="org.xmind.cathy.addon.saveCommandLabelUpdater" contributorURI="platform:/plugin/org.xmind.cathy" contributionURI="bundleclass://org.xmind.cathy/org.xmind.cathy.internal.SaveCommandLabelUpdater"/>
+  <addons xmi:id="_107G_GgtEeaC2vj1JV_XDw" elementId="CleanupAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.cleanupaddon.CleanupAddon"/>
+  <addons xmi:id="_107G_WgtEeaC2vj1JV_XDw" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
+  <categories xmi:id="_11XLwGgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.category.views" name="&#x8996;&#x5716;" description="&#x958b;&#x555f;&#x8996;&#x5716;&#x7684;&#x6307;&#x4ee4;"/>
+  <categories xmi:id="_11XLwWgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.category.perspectives" name="&#x8996;&#x666f;" description="&#x6253;&#x5f00;&#x900f;&#x89c6;&#x56fe;&#x7684;&#x547d;&#x4ee4;"/>
+  <categories xmi:id="_11XLwmgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.category.navigate" name="&#x5c0e;&#x89bd;"/>
+  <categories xmi:id="_11XLw2gtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.category.edit" name="&#x7de8;&#x8f2f;"/>
+  <categories xmi:id="_11XLxGgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.category.mindmap" name="&#x5fc3;&#x667a;&#x5716;" description="&#x7de8;&#x8f2f;&#x5fc3;&#x667a;&#x5716;&#x6307;&#x4ee4;"/>
+  <categories xmi:id="_11XLxWgtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.category.file" name="&#x6a94;&#x6848;"/>
+  <categories xmi:id="_11XLxmgtEeaC2vj1JV_XDw" elementId="net.xmind.ui.commands" name="XMind.net &#x7db2;&#x7ad9;"/>
+  <categories xmi:id="_11XLx2gtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.category.window" name="&#x8996;&#x7a97;"/>
+  <categories xmi:id="_11XLyGgtEeaC2vj1JV_XDw" elementId="org.eclipse.core.commands.categories.autogenerated" name="&#x672a;&#x5206;&#x985e;" description="&#x81ea;&#x52d5;&#x7522;&#x751f;&#x6216;&#x6c92;&#x6709;&#x7a2e;&#x985e;&#x7684;&#x6307;&#x4ee4;"/>
+  <categories xmi:id="_11XLyWgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.category.view" name="&#x6aa2;&#x8996;" description="&#x6aa2;&#x8996;&#x5fc3;&#x667a;&#x5716;&#x6307;&#x4ee4;"/>
+  <categories xmi:id="_11XLymgtEeaC2vj1JV_XDw" elementId="org.xmind.ui.category.text.edit" name="&#x6587;&#x5b57;&#x7de8;&#x8f2f;" description="&#x7de8;&#x8f2f;&#x6587;&#x5b57;&#x6307;&#x4ee4;"/>
+  <categories xmi:id="_11XLy2gtEeaC2vj1JV_XDw" elementId="org.eclipse.ui.category.help" name="&#x8aaa;&#x660e;"/>
+</application:Application>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site-events>
+<events>
+<event id="117" more-url="http://www.xmind.net/download/?ref=popup_update_7.5" open-external="true" prompt="startup" style="popup" url="http://www.xmind.net/download/portable/?ref=popup_update_7.5">免費升級至 XMind 7.5 尊享自動同步及 60,000+ 精美圖示！</event>
+<event action-text="Grab" id="119" open-external="true" prompt="once" style="popup" url="https://www.xmind.net/buy/?t=edu&amp;p=pro&amp;c=usd&amp;ref=popup1608edu">Your trump card for a Straight-A Student! Not $129, only $59 for Students!</event>
+</events>
+</site-events>
